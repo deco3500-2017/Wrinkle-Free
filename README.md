@@ -5,11 +5,11 @@ What is your project and what dilemma does it aim to address.
 outline the idea and the rationale behind it. Define the project aims and audience and identify how your idea is di erent from / improves upon other current o erings. Identify areas of social & mobile theory that apply to, will inform your concept & approach.
 # Team
 Who is on your team, what are their responsibilities, and how will you work together? List all the members and their course code. Identify:
-• Who will lead the team and manage the project;
-• Who is responsible for logistics e.g. equipment, meetings, transport, etc;
-• Who fills key roles, e.g. back end, front end, content, design;
-• How will decisions be made;
-• How will the team handle poor performance and resolve conflicts.
+<br>• Who will lead the team and manage the project;
+<br>• Who is responsible for logistics e.g. equipment, meetings, transport, etc;
+<br>• Who fills key roles, e.g. back end, front end, content, design;
+<br>• How will decisions be made;
+<br>• How will the team handle poor performance and resolve conflicts.
 <table>
   <tr>
   <th>Student Name</th>
@@ -29,7 +29,7 @@ Who is on your team, what are their responsibilities, and how will you work toge
   <td>Chenwu Han</td>
   <td>44174633</td>
   <td>DECO7350</td>
-  <td>HTML,CSS, Adobe softwares,Python.</td>
+  <td>HTML,CSS, Adobe softwares,Python</td>
   <td>Roles</td>
   </tr>
   <td>Yau Ga Sheng</td>
@@ -49,10 +49,9 @@ Who is on your team, what are their responsibilities, and how will you work toge
   <td>Weiguang Hou</td>
   <td>43442522</td>
   <td>DECO3500</td>
-  <td>HTML,CSS,Photoshop, illustrator, Python.</td>
+  <td>HTML,CSS,Photoshop, illustrator, Python</td>
   <td>Roles</td>
   </tr>
-  
 </table>
 # Communication
 Where and when will your team meet and how will you all communicate?1 Where will files be stored and shared? What are the file naming conventions?
