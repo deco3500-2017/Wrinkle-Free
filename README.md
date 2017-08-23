@@ -59,15 +59,16 @@ Who is on your team, what are their responsibilities, and how will you work toge
 # Communication
 Where and when will your team meet and how will you all communicate?1 Where will files be stored and shared? What are the file naming conventions?
 Identify the social platform/s your team has adopted and explain the choice. How will it facilitate communication and / or file sharing?
-<p>
-<br>Google Drive
-<br>Slack
-<br>Facebook
-<br>Gmail
-<br>Phone
-<br>Trello
 
-</p>
+<ol>
+<li>Google Drive is used as a platform to share files between team member.<li>
+<li>Slack is used as a platform to communicate between team member.</li>
+<li>Trello is used to organize and collaborate team works.</li>
+<li>Git is used as a repository and version control system.</li>
+<li>Facebook messenger is used for daily conversation between team members about the project.</li>
+<li>If a team member didn't respond to a message, we would reach him directly. If we still cannot contact him, we will report this action to the DECO 3500 staffs.</li>
+</ol>
+
 # Plan
 Identify the key tasks that need to be completed and when. Identify:
 <br>• Project phases e.g. research; requirements; design; construction;
