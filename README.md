@@ -19,38 +19,38 @@ Who is on your team, what are their responsibilities, and how will you work toge
   <th>Roles</th>
   </tr>
   <tr>
-  <th>Jermin Yoo</th>
-  <th>44260497</th>
-  <th>DECO7350</th>
-  <th>Skills</th>
-  <th>Roles</th>
+  <td>Jermin Yoo</td>
+  <td>44260497</td>
+  <td>DECO7350</td>
+  <td>Skills</td>
+  <td>Roles</td>
   </tr>
   <tr>
-  <th>Chenwu Han</th>
-  <th>44174633</th>
-  <th>DECO7350</th>
-  <th>HTML,CSS, Adobe softwares,Python.</th>
+  <td>Chenwu Han</td>
+  <td>44174633</td>
+  <td>DECO7350</td>
+  <td>HTML,CSS, Adobe softwares,Python.</td>
   <th>Roles</th>
   </tr>
-  <th>Yau Ga Sheng</th>
-  <th>44462938</th>
-  <th>DECO7350</th>
-  <th>HTML, CSS, Photoshop, Java, Python, SQL database</th>
-  <th>Roles</th>
-  </tr>
-  <tr>
-  <th>Kin San Poon</th>
-  <th>43848928</th>
-  <th>DECO3500</th>
-  <th>Html, Css, Java, Php, Database, Adobe illustrator, Python</th>
-  <th>Roles</th>
+  <td>Yau Ga Sheng</td>
+  <td>44462938</td>
+  <td>DECO7350</td>
+  <td>HTML, CSS, Photoshop, Java, Python, SQL database</td>
+  <td>Roles</td>
   </tr>
   <tr>
-  <th>Weiguang Hou</th>
-  <th>43442522</th>
-  <th>DECO3500</th>
-  <th>HTML,CSS,Photoshop, illustrator, Python.</th>
-  <th>Roles</th>
+  <td>Kin San Poon</td>
+  <td>43848928</td>
+  <td>DECO3500</td>
+  <td>Html, Css, Java, Php, Database, Adobe illustrator, Python</td>
+  <td>Roles</td>
+  </tr>
+  <tr>
+  <td>Weiguang Hou</td>
+  <td>43442522</td>
+  <td>DECO3500</td>
+  <td>HTML,CSS,Photoshop, illustrator, Python.</td>
+  <td>Roles</td>
   </tr>
   
 </table>
