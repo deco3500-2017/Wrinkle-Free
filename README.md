@@ -61,7 +61,7 @@ Where and when will your team meet and how will you all communicate?1 Where will
 Identify the social platform/s your team has adopted and explain the choice. How will it facilitate communication and / or file sharing?
 
 <ol>
-<li>Google Drive is used as a platform to share files between team member.<li>
+<li>Google Drive is used as a platform to share files between team member.</li>
 <li>Slack is used as a platform to communicate between team member.</li>
 <li>Trello is used to organize and collaborate team works.</li>
 <li>Git is used as a repository and version control system.</li>
