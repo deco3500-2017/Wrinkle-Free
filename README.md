@@ -59,6 +59,15 @@ Who is on your team, what are their responsibilities, and how will you work toge
 # Communication
 Where and when will your team meet and how will you all communicate?1 Where will files be stored and shared? What are the file naming conventions?
 Identify the social platform/s your team has adopted and explain the choice. How will it facilitate communication and / or file sharing?
+<p>
+<br>Google Drive
+<br>Slack
+<br>Facebook
+<br>Gmail
+<br>Phone
+<br>Trello
+
+</p>
 # Plan
 Identify the key tasks that need to be completed and when. Identify:
 <br>• Project phases e.g. research; requirements; design; construction;
