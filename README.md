@@ -10,6 +10,15 @@ Who is on your team, what are their responsibilities, and how will you work toge
 • Who fills key roles, e.g. back end, front end, content, design;
 • How will decisions be made;
 • How will the team handle poor performance and resolve conflicts.
+<table>
+  <tr>
+  <th>Student Name</th>
+  <th>Student Number</th>
+  <th>Course Code</th>
+  <th>Skills</th>
+  <th>Roles</th>
+  </tr>
+</table>
 # Communication
 Where and when will your team meet and how will you all communicate?1 Where will files be stored and shared? What are the file naming conventions?
 Identify the social platform/s your team has adopted and explain the choice. How will it facilitate communication and / or file sharing?
