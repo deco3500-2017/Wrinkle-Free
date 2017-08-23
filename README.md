@@ -18,6 +18,35 @@ Who is on your team, what are their responsibilities, and how will you work toge
   <th>Skills</th>
   <th>Roles</th>
   </tr>
+  <tr>
+  <th>Jermin Yoo</th>
+  <th>44260497</th>
+  <th>DECO7350e</th>
+  <th>Skills</th>
+  <th>Roles</th>
+  </tr>
+  <tr>
+  <th>Chenwu Han</th>
+  <th>44174633</th>
+  <th>DECO7250</th>
+  <th>HTML,CSS, Adobe softwares,Python.</th>
+  <th>Roles</th>
+  </tr>
+  <tr>
+  <th>Kin San Poon</th>
+  <th>43848928</th>
+  <th>DECO3500</th>
+  <th>Html, Css, Java, Php, Database, Adobe illustrator, Python</th>
+  <th>Roles</th>
+  </tr>
+  <tr>
+  <th>Weiguang Hou</th>
+  <th>43442522</th>
+  <th>DECO3500</th>
+  <th>HTML,CSS,Photoshop, illustrator, Python.</th>
+  <th>Roles</th>
+  </tr>
+  
 </table>
 # Communication
 Where and when will your team meet and how will you all communicate?1 Where will files be stored and shared? What are the file naming conventions?
