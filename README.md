@@ -61,9 +61,9 @@ Where and when will your team meet and how will you all communicate?1 Where will
 Identify the social platform/s your team has adopted and explain the choice. How will it facilitate communication and / or file sharing?
 # Plan
 Identify the key tasks that need to be completed and when. Identify:
-• Project phases e.g. research; requirements; design; construction;
-• Key deliverables for each phase (Milestones)2;
-• Resources – equipment or other tools/people you might need.
+<br>• Project phases e.g. research; requirements; design; construction;
+<br>• Key deliverables for each phase (Milestones)2;
+<br>• Resources – equipment or other tools/people you might need.
 # Tags
 Tag your proposed idea with 5 key concepts from social and mobile lectures (e.g. awareness, Collaboration, CSCW) and 2 keywords related to your domain.
 
