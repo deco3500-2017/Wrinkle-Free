@@ -21,15 +21,21 @@ Who is on your team, what are their responsibilities, and how will you work toge
   <tr>
   <th>Jermin Yoo</th>
   <th>44260497</th>
-  <th>DECO7350e</th>
+  <th>DECO7350</th>
   <th>Skills</th>
   <th>Roles</th>
   </tr>
   <tr>
   <th>Chenwu Han</th>
   <th>44174633</th>
-  <th>DECO7250</th>
+  <th>DECO7350</th>
   <th>HTML,CSS, Adobe softwares,Python.</th>
+  <th>Roles</th>
+  </tr>
+  <th>Yau Ga Sheng</th>
+  <th>44462938</th>
+  <th>DECO7350</th>
+  <th>HTML, CSS, Photoshop, Java, Python, SQL database</th>
   <th>Roles</th>
   </tr>
   <tr>
