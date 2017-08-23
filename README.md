@@ -30,7 +30,7 @@ Who is on your team, what are their responsibilities, and how will you work toge
   <td>44174633</td>
   <td>DECO7350</td>
   <td>HTML,CSS, Adobe softwares,Python.</td>
-  <th>Roles</th>
+  <td>Roles</td>
   </tr>
   <td>Yau Ga Sheng</td>
   <td>44462938</td>
