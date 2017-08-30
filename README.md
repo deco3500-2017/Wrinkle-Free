@@ -71,7 +71,52 @@ Identify the social platform/s your team has adopted and explain the choice. How
 
 # Plan
 Identify the key tasks that need to be completed and when. Identify:
-Plan\nWeek 6\nActivities\nFix the idea \u0026 concept\nConduct research\nPrimary user research / user persona\nDeliverables\nPitch proposal\nWeek 7\nActivities\nGather data\nEstablish requirements\nDesign screen layout, database and system architecture\nPrepare standup in week 8\nDeliverables\nLow-fidelity prototype\nWeek 8\nActivities\nSet up DEV environment\nDevelop UI \u0026 programs\nDeliverables\nUI Layout\nCodes\nWeek 9\nActivities\nConduct the user test\nPrepare standup in week 10\nDeliverables\nResults of user testing\nWeek 10\nActivities\nDebug programs \u0026 Fix errors\nPrepare the conference poster\nDeliverables\nWeek 11\nActivities\nPrepare standup in week 12\nDeliverables\nInteractive prototype\nWeek 12\nActivities\nPrepare promotional material\nkickstarter video\nwebsite\nbrochure or information sheets\nDeliverables\n
+Week 6
+Activities
+Fix the idea & concept
+Conduct research
+Primary user research / user persona
+Deliverables
+Pitch proposal
+Week 7
+Activities
+Gather data
+Establish requirements
+Design screen layout, database and system architecture
+Prepare standup in week 8
+Deliverables
+Low-fidelity prototype
+Week 8
+Activities
+Set up DEV environment
+Develop UI & programs
+Deliverables
+UI Layout
+Codes
+Week 9
+Activities
+Conduct the user test
+Prepare standup in week 10
+Deliverables
+Results of user testing
+Week 10
+Activities
+Debug programs & Fix errors
+Prepare the conference poster
+Deliverables
+Week 11
+Activities
+Prepare standup in week 12
+Deliverables
+Interactive prototype
+Week 12
+Activities
+Prepare promotional material
+kickstarter video
+website
+brochure or information sheets
+Deliverables
+
 <ol>
 <li>Project phases - e.g. research; requirements; design; construction</li>
 <br>1.1. Analysis<br>
