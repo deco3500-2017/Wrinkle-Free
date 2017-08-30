@@ -71,6 +71,7 @@ Identify the social platform/s your team has adopted and explain the choice. How
 
 # Plan
 Identify the key tasks that need to be completed and when. Identify:
+Plan\nWeek 6\nActivities\nFix the idea \u0026 concept\nConduct research\nPrimary user research / user persona\nDeliverables\nPitch proposal\nWeek 7\nActivities\nGather data\nEstablish requirements\nDesign screen layout, database and system architecture\nPrepare standup in week 8\nDeliverables\nLow-fidelity prototype\nWeek 8\nActivities\nSet up DEV environment\nDevelop UI \u0026 programs\nDeliverables\nUI Layout\nCodes\nWeek 9\nActivities\nConduct the user test\nPrepare standup in week 10\nDeliverables\nResults of user testing\nWeek 10\nActivities\nDebug programs \u0026 Fix errors\nPrepare the conference poster\nDeliverables\nWeek 11\nActivities\nPrepare standup in week 12\nDeliverables\nInteractive prototype\nWeek 12\nActivities\nPrepare promotional material\nkickstarter video\nwebsite\nbrochure or information sheets\nDeliverables\n
 <ol>
 <li>Project phases - e.g. research; requirements; design; construction</li>
 <br>1.1. Analysis<br>
