@@ -71,6 +71,13 @@ Identify the social platform/s your team has adopted and explain the choice. How
 
 # Plan
 Identify the key tasks that need to be completed and when. Identify:
+<ol>
+<li>Project phases - e.g. research; requirements; design; construction</li>
+<li>Key deliverables - for each phase (Milestones)</li>
+<li>Resources – equipment or other tools/people you might need</li>
+</ol>
+
+
 <br>• Project phases e.g. research; requirements; design; construction;
 <br>• Key deliverables for each phase (Milestones)2;
 <br>• Resources – equipment or other tools/people you might need.
