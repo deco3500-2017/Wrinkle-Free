@@ -73,14 +73,25 @@ Identify the social platform/s your team has adopted and explain the choice. How
 Identify the key tasks that need to be completed and when. Identify:
 <ol>
 <li>Project phases - e.g. research; requirements; design; construction</li>
+<br>1.1. Analysis<br>
+<br>Research: Literature Review, Interview and Questionnaire<br>
+<br>User Requirements<br>
+<br>1.2. Design<br>
+<br>Screen Layout, Database and System Architecture<br>
+<br>Key deliverables: Design Report (Screen Layout Specification)<br>
+<br>Key deliverables: Requirement Definition<br>
+<br>1.3. Development<br>
+<br>DEV Setup<br>
+<br>Server-side, Client-side<br>
+<br>Key deliverables: Codes<br>
+<br>1.4. Test<br>
+<br>User Test<br>
+<br>Key deliverables: User Test Scenario & Report<br>
+<br>1.5. Implementation<br>
+<br>Key deliverables: Final Report<br>
 <li>Key deliverables - for each phase (Milestones)</li>
 <li>Resources – equipment or other tools/people you might need</li>
 </ol>
-
-
-<br>• Project phases e.g. research; requirements; design; construction;
-<br>• Key deliverables for each phase (Milestones)2;
-<br>• Resources – equipment or other tools/people you might need.
 # Tags
 Tag your proposed idea with 5 key concepts from social and mobile lectures (e.g. awareness, Collaboration, CSCW) and 2 keywords related to your domain.
 
