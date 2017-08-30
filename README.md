@@ -23,34 +23,34 @@ Who is on your team, what are their responsibilities, and how will you work toge
   <td>Jermin Yoo</td>
   <td>44260497</td>
   <td>DECO7350</td>
-  <td>Skills</td>
+  <td>Python, Adobe Illustrator</td>
   <td>Roles</td>
   </tr>
   <tr>
   <td>Chenwu Han</td>
   <td>44174633</td>
   <td>DECO7350</td>
-  <td>HTML,CSS, Adobe softwares,Python</td>
+  <td>HTML, CSS, Python, Adobe Softwares</td>
   <td>Roles</td>
   </tr>
   <td>Yau Ga Sheng</td>
   <td>44462938</td>
   <td>DECO7350</td>
-  <td>HTML, CSS, Photoshop, Java, Python, SQL database</td>
+  <td>HTML, CSS, Java, Python, SQL Database, Adobe Photoshop</td>
   <td>Roles</td>
   </tr>
   <tr>
   <td>Kin San Poon</td>
   <td>43848928</td>
   <td>DECO3500</td>
-  <td>Html, Css, Java, Php, Database, Adobe illustrator, Python</td>
+  <td>HTML, CSS, Java, PHP, Python, Database, Adobe Illustrator</td>
   <td>Roles</td>
   </tr>
   <tr>
   <td>Weiguang Hou</td>
   <td>43442522</td>
   <td>DECO3500</td>
-  <td>HTML,CSS,Photoshop, illustrator, Python</td>
+  <td>HTML, CSS, Python, Adobe Photoshop, Adobe Illustrator</td>
   <td>Roles</td>
   </tr>
   </table>
