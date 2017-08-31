@@ -137,24 +137,24 @@ The feedback of participants is really useful for us to improve my design and co
 
 # Plan
 Identify the key tasks that need to be completed and when. Identify:
-<br># Week 6</br>
+<br><b># Week 6</b></br>
 <br>Activities - Fix the idea & concept / Conduct research / Primary user research & user persona</br>
 <br>Deliverables - Pitch proposal</br>
-<br># Week 7</br>
+<br><b># Week 7</b></br>
 <br>Activities - Gather data / Establish requirements / Design screen layout, database and system architecture / Prepare standup in week 8</br>
 <br>Deliverables - Low-fidelity prototype</br>
-<br># Week 8</br>
+<br><b># Week 8<b/></br>
 <br>Activities - Set up DEV environment / Develop UI & programs</br>
 <br>Deliverables - UI Layout / Codes</br>
-<br># Week 9</br>
+<br><b># Week 9</b></br>
 <br>Activities - Conduct the user test / Prepare standup in week 10</br>
 <br>Deliverables - Results of user testing</br>
-<br># Week 10</br>
+<br><b># Week 10</b></br>
 <br>Activities - Debug programs & Fix errors / Prepare the conference poster</br>
-<br># Week 11</br>
+<br><b># Week 11</b></br>
 <br>Activities - Prepare standup in week 12</br>
 <br>Deliverables - Interactive prototype</br>
-<br># Week 12</br>
+<br><b># Week 12</b></br>
 <br>Activities - Prepare promotional material(kickstarter video / website / brochure or information sheets)</br>
 
 # Tags
