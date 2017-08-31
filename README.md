@@ -8,7 +8,7 @@ By utilising information technology, we can build an online interactive platform
 
 # Target audience
 Elderly people who wants to share their experience wisdom of life
-Advantage of elderly: they have experience for some specific skill. Lot of free time.  
+Advantage of elderly: they have experience for some specific skill, and has lots of free time.  
 
 # Persona
 
