@@ -21,12 +21,6 @@ During the signup process, user can select their interest in the selection field
 User also able to browse and search for their interest in a list after searching the hobby by keywords from the search engine. The information will be shown clearly and logically, such as listed by popularity or page view.And the web-based application also has an attractive social component. It has function of social technology like online chat room, where elderly can find and connect to other people that share their hobby or interest by joining or creating the social group with similar hobby and interest, so they can chat with each other and release their status. The feature of user interface will be simple, elegant, less complex and easier for aging population to use.
 
 # Team
-Who is on your team, what are their responsibilities, and how will you work together? List all the members and their course code. Identify:
-<br>• Who will lead the team and manage the project;
-<br>• Who is responsible for logistics e.g. equipment, meetings, transport, etc;
-<br>• Who fills key roles, e.g. back end, front end, content, design;
-<br>• How will decisions be made;
-<br>• How will the team handle poor performance and resolve conflicts.
   <body>
   <table>
   <tr>
