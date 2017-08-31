@@ -5,6 +5,24 @@ As the ageing continues around the world, the population of elderly people is st
 By utilising information technology, we can build an online interactive platform to make the most of knowledge and experience from elderly people. By using elder people’s potential to share their experience and skill to other people, we can help them maintaining regular contact with the outside world in order to stay happy and healthy.
 
 # Backgound research
+We conducted our background research through browsing and searching for literature and research article online related to our topic, such as how advancement of information technology impact on elderly, how many of older adults have enthusiastically adopted it to keep up with the times as well as their old acquaintances and younger family members, percentage of internet usage among older adults, how to utilise the advantage of social technology to benefits elderly people and much more. Below are few main points we taken from several research article and website with supportive statements. 
+<ol>
+  <li>Positive attitudes were most frequently related to how the technology supported activities, enhanced convenience, and contained useful features. Negative attitudes were most frequently associated with technology creating inconveniences, unhelpful features, as well as security and reliability concerns.</li>
+  <li>More than 32 million older people (55 years and older) have a computer at home as compared to 62 million people between 35 and 54 years, and the use of the internet among older people is increasing.</li>
+  <li>Computers and the Internet can also help older people access information about community services and resources.</li>
+  <li>Beneficial for older people who have mobility restrictions or lack of transportation.</li>
+  <li>Some 81% of older adults who use social networking sites say that they socialize with others (either in person, online, or over the telephone) on a daily or near-daily basis. Among older adults who go online but do not use social networking sites, that figure is 71%; and for those who are not online at all, it is 63%.</li>
+  <li>According to the Pew Research Center, Internet use among those 65 and older grew 150 percent between 2009 and 2011, the largest growth in a demographic group. Furthermore, their 2012 study showed that of those that go online, 71 percent do so daily and 34 percent use social media. The elderly use these tools to bridge the geographic gap between them and their loved ones far away and as a way to re-connect with friends from a far off time. Studies show that the internet has become an important portal for reducing isolation, loneliness and other depressive symptoms.</li>
+</ol> 
+
+<u>Reference</u>
+<ol>
+<li>TL, M. (2010 Nov 1). Computer human behavior . Older Adults Talk Technology: Technology Usage and Attitudes, 26(6):1710-1721.</li>
+<li>J, S. (2009). Human Computer Interaction. Information Technology and Older Adults, 18-29.</li>
+<li>Smith, A. (2014, April 3). Older Adults and Technology Use. Retrieved from Pew Research Center: http://www.pewinternet.org/2014/04/03/older-adults-and-technology-use/</li>
+<li>5 AGE DEFYING BENEFITS OF SENIOR FRIENDSHIPS. (2017, July 15). Retrieved from Palm Lake Care: http://www.palmlakecare.com.au/our-stories/5-age-defying-benefits-senior-friendships</li>
+<li>Kamiel, A. (2016, 07 03). A Hot Trend: The Internet, Social Media & The Elderly. Retrieved from The Blog: http://www.huffingtonpost.com/anita-kamiel-rn-mps/older-people-social-media_b_9191178.html</li>
+</ol>
 
 # Target audience
 Elderly people who wants to share their experience wisdom of life
