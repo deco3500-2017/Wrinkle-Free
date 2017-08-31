@@ -14,9 +14,11 @@ Advantage of elderly: they have experience for some specific skill, and has lots
 
 
 # Concept
-Our concept would be creating a web based application for elderly where user able to post and share their knowledge or experience regarding their interest and passion for others to view and learn.During the signup process, user can select their interest in the selection field, they have a few default selection such as gardening, cooking, tailoring, and much more for user to choose. User also able to select multiple interest based on their preference. After successful login they will be navigated to the main page where it consist of multiple post shared by other users. All the post were filtered and categorised according to user’s field of interest. 
+Our concept would be creating a web based application for elderly where user able to post and share their knowledge or experience regarding their interest and passion for others to view and learn.It has similar feature like blog post where they can post text, images or video online, but it will be less complex where elderly able to understand and make use of the feature easily. All the post will be categorised by tag, for example if they post some cooking recipe the tag will be under “cooking” section. Each post has a comment section for user to comment。
 
-It has similar feature like blog post where they can post text, images or video online, but it will be less complex where elderly able to understand and make use of the feature easily. All the post will be categorised by tag, for example if they post some cooking recipe the tag will be under “cooking” section. User also able to browse and search for their interest in a list after searching the hobby by keywords from the search engine. The information will be shown clearly and logically, such as listed by popularity or page view.And the web-based application also has an attractive social component. It has function of social technology like online chat room, where elderly can find and connect to other people that share their hobby or interest by joining or creating the social group with similar hobby and interest, so they can chat with each other and release their status. The feature of user interface will be simple, elegant, less complex and easier for aging population to use.
+During the signup process, user can select their interest in the selection field, they have a few default selection such as gardening, cooking, tailoring, and much more for user to choose. User also able to select multiple interest based on their preference. After successful login they will be navigated to the main page where it consist of multiple post shared by other users. All the post were filtered and categorised according to user’s field of interest. 
+
+User also able to browse and search for their interest in a list after searching the hobby by keywords from the search engine. The information will be shown clearly and logically, such as listed by popularity or page view.And the web-based application also has an attractive social component. It has function of social technology like online chat room, where elderly can find and connect to other people that share their hobby or interest by joining or creating the social group with similar hobby and interest, so they can chat with each other and release their status. The feature of user interface will be simple, elegant, less complex and easier for aging population to use.
 
 # Team
 Who is on your team, what are their responsibilities, and how will you work together? List all the members and their course code. Identify:
@@ -39,40 +41,44 @@ Who is on your team, what are their responsibilities, and how will you work toge
   <td>44260497</td>
   <td>DECO7350</td>
   <td>Python, Adobe Illustrator</td>
-  <td>Roles</td>
+  <td>Front-end and UI Designer</td>
   </tr>
   <tr>
   <td>Chenwu Han</td>
   <td>44174633</td>
   <td>DECO7350</td>
   <td>HTML, CSS, Python, Adobe Softwares</td>
-  <td>Roles</td>
+  <td>UX Designer</td>
   </tr>
   <td>Yau Ga Sheng</td>
   <td>44462938</td>
   <td>DECO7350</td>
   <td>HTML, CSS, Java, Python, SQL Database, Adobe Photoshop</td>
-  <td>Roles</td>
+  <td>Front-end and Back-end</td>
   </tr>
   <tr>
   <td>Kin San Poon</td>
   <td>43848928</td>
   <td>DECO3500</td>
   <td>HTML, CSS, Java, PHP, Python, Database, Adobe Illustrator</td>
-  <td>Roles</td>
+  <td>Front-end and Back-end</td>
   </tr>
   <tr>
   <td>Weiguang Hou</td>
   <td>43442522</td>
   <td>DECO3500</td>
   <td>HTML, CSS, Python, Adobe Photoshop, Adobe Illustrator</td>
-  <td>Roles</td>
+  <td>UX Designer</td>
   </tr>
   </table>
   </body>
+ We have five people in our team with different kinds of develop skill, we will separate our project in different part and make sure all members in our team have equal amount of work to work on during the project development. For our team, Ga sheng and adrian will be in charge of front-end and back-end, Stanley and Chen will be UX designer and Jemin for front end and ui design. For working as a team, we are respect to all our team member and make sure all team member have a chance to explore their idea and thinking for decision making, during the decision making for some important task or design, we will let all the members in our group to speak and see what they think. If ⅗ people in our group have same idea, we will follow the idea that we rote. If we cannot make the decision, we may ask for a tutor or professor help. If one of the team member are not working well in our team, we may run a meeting to discuss with him, to make sure why he will do something on this way, and can we can solve this problem. In our team communication and respect is very important. We make sure all people have their chance to talk and explore idea.  
+
+  
 
 # Communication
-As for our team communication, normally our group will be communicating by using some of the online platform such as Slack, google drive, trello board, Github, and facebook messenger.
+Normally our group will meeting online out of the class time by using some of the online platform. We will run a meeting for tracking the work done one time per week. And For our team communication, we are using the following platform, Slack, google drive, trello board, Github, facebook messenger. Facebook messenger is normally use for daily conversation between our group members out of class time, for remind people to work on the job, due day for report and etc. Slack also used as a platform to communicate between team member, and we can check the updated news that post by DECO 3500 staffs and also contact them for help during the semester. We will upload all the material and job on google drive for sharing to all our teammate, it is easy for all teammate to update and fix the document on the same time, for non-coding staff, for coding staff, we are using the github repository, to upload and put all our coding thing during this semester. Trello board  is used to organize and collaborate team works. For remind and marking our work by step. If one of our teammate didn’t respond to a message for long time, we will try to contact him by calling his phone, if still not respond, we may contact DECO 3500 staffs for following action.
+
 
 <ol>
 <li>Google Drive. We will upload all the materials and task on google drive for sharing to all our teammate, since it’s easy for team members to update and fix the document at the same time for non-coding stuff. </li>
@@ -141,5 +147,12 @@ Identify the key tasks that need to be completed and when. Identify:
 <br>Activities - Prepare promotional material(kickstarter video / website / brochure or information sheets)</br>
 
 # Tags
-Tag your proposed idea with 5 key concepts from social and mobile lectures (e.g. awareness, Collaboration, CSCW) and 2 keywords related to your domain.
+#Collaboration Transparency (Multiple Single-user)
+#WYSIWIS (What You See Is What I See)
+#Technology
+#Shared Information Space
+#Awareness (Knowing who is around, what is happening, and who is talking with whom)
+#Communication
+#Social & Mobile
+
 
