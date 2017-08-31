@@ -1,8 +1,18 @@
 # Wrinkle-Free
 # Introduction
-What is your project and what dilemma does it aim to address.
+As the ageing continues around the world, the population of elderly people is steadily increasing. We live in a world where many people like to share their interest and passions, especially elderly people. However social network has failed to connect them in a meaningful way, The problem with most social networks for elder people is: it is difficult to meet people with shared interests online, and have real conversations with them. It is a good problem space for us to make a change for them, elder people have a lot of advantage compare to other people :They are more experienced in specific area, they also have lots of free time, but we tend to overlook and we are wasting their talent and experience, because we don't know how to use it in the right place. 
+
+By utilising information technology, we can build an online interactive platform to make the most of knowledge and experience from elderly people. By using elder people’s potential to share their experience and skill to other people, we can help them maintaining regular contact with the outside world in order to stay happy and healthy.
+# Target audience
+Elderly people who wants to share their experience wisdom of life
+Advantage of elderly: they have experience for some specific skill. Lot of free time.  
+
+
 # Concept
-outline the idea and the rationale behind it. Define the project aims and audience and identify how your idea is di erent from / improves upon other current o erings. Identify areas of social & mobile theory that apply to, will inform your concept & approach.
+Our concept would be creating a web based application for elderly where user able to post and share their knowledge or experience regarding their interest and passion for others to view and learn.During the signup process, user can select their interest in the selection field, they have a few default selection such as gardening, cooking, tailoring, and much more for user to choose. User also able to select multiple interest based on their preference. After successful login they will be navigated to the main page where it consist of multiple post shared by other users. All the post were filtered and categorised according to user’s field of interest. 
+
+It has similar feature like blog post where they can post text, images or video online, but it will be less complex where elderly able to understand and make use of the feature easily. All the post will be categorised by tag, for example if they post some cooking recipe the tag will be under “cooking” section. User also able to browse and search for their interest in a list after searching the hobby by keywords from the search engine. The information will be shown clearly and logically, such as listed by popularity or page view.And the web-based application also has an attractive social component. It has function of social technology like online chat room, where elderly can find and connect to other people that share their hobby or interest by joining or creating the social group with similar hobby and interest, so they can chat with each other and release their status. The feature of user interface will be simple, elegant, less complex and easier for aging population to use.
+
 # Team
 Who is on your team, what are their responsibilities, and how will you work together? List all the members and their course code. Identify:
 <br>• Who will lead the team and manage the project;
@@ -57,15 +67,16 @@ Who is on your team, what are their responsibilities, and how will you work toge
   </body>
 
 # Communication
-Where and when will your team meet and how will you all communicate?1 Where will files be stored and shared? What are the file naming conventions?
-Identify the social platform/s your team has adopted and explain the choice. How will it facilitate communication and / or file sharing?
+As for our team communication, normally our group will be communicating by using some of the online platform such as Slack, google drive, trello board, Github, and facebook messenger.
 
 <ol>
-<li>Google Drive is used as a platform to share files between team member.</li>
+<li>Google Drive. We will upload all the materials and task on google drive for sharing to all our teammate, since it’s easy for team members to update and fix the document at the same time for non-coding stuff. </li>
 <li>Slack is used as a platform to communicate between team member.</li>
 <li>Trello is used to organize and collaborate team works.</li>
-<li>Git is used as a repository and version control system.</li>
-<li>Facebook messenger is used for daily conversation between team members about the project.</li>
+<li>Github is used as a repository and version control system  to upload and put all our coding thing during this semester.</li>
+<li>Facebook messenger is used for daily conversation between our group members out of class time, for reminding people to work on the task, due date for reports and much more.</li>
+<li>And Trello board is used to organize and collaborate team works, or reminding and marking our work by step.
+</li>
 <li>If a team member didn't respond to a message, we would reach him directly. If we still cannot contact him, we will report this action to the DECO 3500 staffs.</li>
 </ol>
 
