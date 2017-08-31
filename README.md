@@ -14,8 +14,7 @@ We conducted our background research through browsing and searching for literatu
   <li>Some 81% of older adults who use social networking sites say that they socialize with others (either in person, online, or over the telephone) on a daily or near-daily basis. Among older adults who go online but do not use social networking sites, that figure is 71%; and for those who are not online at all, it is 63%.</li>
   <li>According to the Pew Research Center, Internet use among those 65 and older grew 150 percent between 2009 and 2011, the largest growth in a demographic group. Furthermore, their 2012 study showed that of those that go online, 71 percent do so daily and 34 percent use social media. The elderly use these tools to bridge the geographic gap between them and their loved ones far away and as a way to re-connect with friends from a far off time. Studies show that the internet has become an important portal for reducing isolation, loneliness and other depressive symptoms.</li>
 </ol> 
-
-<u>Reference</u>
+<p><u>Reference</u></p>
 <ol>
 <li>TL, M. (2010 Nov 1). Computer human behavior . Older Adults Talk Technology: Technology Usage and Attitudes, 26(6):1710-1721.</li>
 <li>J, S. (2009). Human Computer Interaction. Information Technology and Older Adults, 18-29.</li>
