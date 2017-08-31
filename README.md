@@ -80,6 +80,39 @@ As for our team communication, normally our group will be communicating by using
 <li>If a team member didn't respond to a message, we would reach him directly. If we still cannot contact him, we will report this action to the DECO 3500 staffs.</li>
 </ol>
 
+# The Testing Approach
+Testing Process:
+First of all, make sure everything is ready before participant arrives. For example, electronic prototype/paper prototype, questionnaire. In particular, do not let participants see the questionnaire until I hand it to them to fill out.
+
+Materials for participant: Electronico prototype/Paper prototype, questionnaire.
+Materials for observing: Observation sheets, recording tools(pen/notebook,mibile phone).
+
+Introduce the concept to the participants and give them high-level idea of what they will be doing today. Then give the participants more detailed instructions about the task what they will do. In addition to that, tell them how long will give them to work on the task. Then see if there are any questions from the participants before getting start and answer these questions.
+
+For example, when participant is ready, We will give them 10 minutes to finishe the defined tasks by paper prototype and ask them to start on the task:
+1.	Search hobbies or passions by key words.
+2.	Add friend or groups with common purpose and hobbies.
+3.	Browse status and photo from friends.
+4.	Share statue and photos with friends.
+Take video(optional) and take hand notes are two effective and efficient methods that will be used to observe and collect test data.
+
+Observational sheet:
+1.	Take notes on what the participant say as they carry out the task.
+2.	Take notes where the participant got puzzled or feel confused.
+3.	If the participant goes a bit quiet, ask “what are you thinking now?” or “what are you working on now”. When time is up, say “great, we now have the information we need for that part of our session” or something like that.
+
+Next we will ask the participant to fill in the questionnaire after they finish the test. And check over the responses make sure that all parts have been filled out. Finally, tell the participant that the session is at an end. Thank the participant for their time. Let participant know that they are free to go.
+
+Moreover, other aspects of concept need to test:
+1.	The aspects which user feel not good.
+2.	The interface metaphor is suitable for users.
+3.	Explore more functions that can be used in our application an easily accepted by users.
+
+Evaluation Method:
+The feedback of participants is really useful for us to improve my design and concept. There are two effective and efficient methods for data collection and evaluation. Firstly, interviews could be helpful method for me to collect data and evaluate. Interviews are typical and can be conducted face to face that aim at gathering both facts and insights. Secondly, we also can ask further questions or do any activities in plan (paper prototype) which are useful for further data collection and evaluation.
+
+
+
 # Plan
 Identify the key tasks that need to be completed and when. Identify:
 <br># Week 6</br>
