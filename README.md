@@ -3,9 +3,14 @@
 As the ageing continues around the world, the population of elderly people is steadily increasing. We live in a world where many people like to share their interest and passions, especially elderly people. However social network has failed to connect them in a meaningful way, The problem with most social networks for elder people is: it is difficult to meet people with shared interests online, and have real conversations with them. It is a good problem space for us to make a change for them, elder people have a lot of advantage compare to other people :They are more experienced in specific area, they also have lots of free time, but we tend to overlook and we are wasting their talent and experience, because we don't know how to use it in the right place. 
 
 By utilising information technology, we can build an online interactive platform to make the most of knowledge and experience from elderly people. By using elder people’s potential to share their experience and skill to other people, we can help them maintaining regular contact with the outside world in order to stay happy and healthy.
+
+# Backgound research
+
 # Target audience
 Elderly people who wants to share their experience wisdom of life
 Advantage of elderly: they have experience for some specific skill. Lot of free time.  
+
+# Persona
 
 
 # Concept
