@@ -39,54 +39,54 @@ Elderly people who are socially isolated and wants to share their experience wis
 <li>Jasmine is 77 years old (born in 1940) and lives in Townsville. She has two daughters and three grandchildren. Her husband died 6 months ago because of skin cancer. She’s felt depressed after the death so one of her daughter lives with her now. She’s hurt knee joints and always carried a cane since 2007. She’s participated in a local volunteering club for teaching English to migrants since 2002.Uses a mobile only for calling and texting. Spends time for watching quiz shows at home. Exercises twice a week in the swimming pool.</li>
 </ol>
 [Other Persona1.](https://github.com/deco3500-2017/Wrinkle-Free/blob/master/1.jpg)
-<br>[Persona2](https://github.com/deco3500-2017/Wrinkle-Free/blob/master/2.jpg)
+[Persona2](https://github.com/deco3500-2017/Wrinkle-Free/blob/master/2.jpg)
 
 <h2>3. Team</h2>
   <body>
-  <table>
-  <tr>
-    <th align="center"><strong>Student Name</strong></th>
-    <th align="center">Student Number</th>
-    <th align="center">Course Code</th>
-    <th align="center">Skills</th>
-    <th align="center">Roles and responsibilities</th>
-  </tr>
-  <tr>
-    <td align="center">Chenwu Han</td>
-    <td align="center">44174633</td>
-    <td align="center">DECO7350</td>
-    <td>HTML, CSS, Python, Adobe Softwares</td>
-    <td>UX Designer</td>
-  </tr>
-  <tr>
-    <td align="center">Jemin Yoo</td>
-    <td align="center">44260497</td>
-    <td align="center">DECO7350</td>
-    <td>Python, Adobe Illustrator</td>
-    <td>Front-end<br>UI Designer</td>
-  </tr>
-  <tr>
-    <td align="center">Kin San Poon</td>
-    <td align="center">43848928</td>
-    <td align="center">DECO3500</td>
-    <td>HTML, CSS, Java, PHP, Python, Database, Adobe Illustrator</td>
-    <td>Front-end<br>Back-end</td>
-  </tr>
-  <tr>
-    <td align="center">Weiguang Hou</td>
-    <td align="center">43442522</td>
-    <td align="center">DECO3500</td>
-    <td>HTML, CSS, Python, Adobe Photoshop, Adobe Illustrator</td>
-    <td>UX Designer</td>
-  </tr>
-  <tr>  
-    <td align="center">Yau Ga Sheng</td>
-    <td align="center">44462938</td>
-    <td align="center">DECO7350</td>
-    <td>HTML, CSS, Java, Python, SQL Database, Adobe Photoshop</td>
-    <td>Front-end<br>Back-end</td>
-  </tr>
-  </table>
+    <table>
+      <tr>
+        <th align="center"><strong>Student Name</strong></th>
+        <th align="center">Student Number</th>
+        <th align="center">Course Code</th>
+        <th align="center">Skills</th>
+        <th align="center">Roles and responsibilities</th>
+      </tr>
+      <tr>
+        <td align="center">Chenwu Han</td>
+        <td align="center">44174633</td>
+        <td align="center">DECO7350</td>
+        <td>HTML, CSS, Python, Adobe Softwares</td>
+        <td>UX Designer</td>
+      </tr>
+      <tr>
+        <td align="center">Weiguang Hou</td>
+        <td align="center">43442522</td>
+        <td align="center">DECO3500</td>
+        <td>HTML, CSS, Python, Adobe Photoshop, Adobe Illustrator</td>
+        <td>UX Designer</td>
+      </tr>
+      <tr>
+        <td align="center">Kin San Poon</td>
+        <td align="center">43848928</td>
+        <td align="center">DECO3500</td>
+        <td>HTML, CSS, Java, PHP, Python, Database, Adobe Illustrator</td>
+        <td>Front-end<br>Back-end</td>
+      </tr>
+      <tr>  
+        <td align="center">Yau Ga Sheng</td>
+        <td align="center">44462938</td>
+        <td align="center">DECO7350</td>
+        <td>HTML, CSS, Java, Python, SQL Database, Adobe Photoshop</td>
+        <td>Front-end<br>Back-end</td>
+      </tr>
+      <tr>
+        <td align="center">Jemin Yoo</td>
+        <td align="center">44260497</td>
+        <td align="center">DECO7350</td>
+        <td>HTML, CSS, Java, Oracle DB, MySQL, Adobe Illustrator</td>
+        <td>Front-end<br>UI Designer</td>
+      </tr>
+    </table>
   </body>
 We have five people in our team with different kinds of develop skill, we will separate our project in different part and make sure all members in our team have equal amount of work to work on during the project development. For our team, Ga sheng and Adrian will be in charge of front-end and back-end, Stanley and Chen will be UX designer and Jemin for front end and UI design. For working as a team, we are respect to team members and make sure our have a chance to explore their idea and thinking for decision making, during the decision making for some important task or design, we will let all the members in our group to speak and see what they think. If ⅗ people in our group have same idea, we will follow the idea that we wrote. If we cannot make the decision, we may ask for a tutor or professor help. If one of the team members doesn’t work well in our team, we may run a meeting to discuss with him, to make sure why he will do something on this way, and can we can solve this problem. In our team communication and respect is very important. We make sure all people have their chance to talk and explore idea.
 
