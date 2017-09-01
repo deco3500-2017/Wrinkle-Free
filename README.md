@@ -24,7 +24,7 @@ We conducted our background research through browsing and searching for literatu
 </ol>
 
 # Target audience
-Elderly people who wants to share their experience wisdom of life
+Elderly people who wants to share their experience wisdom of life, develop their hobbies and learning some knowledge.
 Advantage of elderly: they have experience for some specific skill, and has lots of free time.  
 
 # Persona
