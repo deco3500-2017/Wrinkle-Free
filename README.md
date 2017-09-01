@@ -39,7 +39,7 @@ Elderly people who are socially isolated and wants to share their experience wis
 <li>Jasmine is 77 years old (born in 1940) and lives in Townsville. She has two daughters and three grandchildren. Her husband died 6 months ago because of skin cancer. She’s felt depressed after the death so one of her daughter lives with her now. She’s hurt knee joints and always carried a cane since 2007. She’s participated in a local volunteering club for teaching English to migrants since 2002.Uses a mobile only for calling and texting. Spends time for watching quiz shows at home. Exercises twice a week in the swimming pool.</li>
 </ol>
 [Other Persona1.](https://github.com/deco3500-2017/Wrinkle-Free/blob/master/1.jpg)
-<br>[Persona2](https://github.com/deco3500-2017/Wrinkle-Free/blob/master/2.jpg)
+[Persona2](https://github.com/deco3500-2017/Wrinkle-Free/blob/master/2.jpg)
 
 <h2>3. Team</h2>
   <body>
@@ -83,7 +83,7 @@ Elderly people who are socially isolated and wants to share their experience wis
         <td align="center">Jemin Yoo</td>
         <td align="center">44260497</td>
         <td align="center">DECO7350</td>
-        <td>HTML, CSS, Java, Oracle DB, MySQL, Adobe Illustrator</td>
+        <td>HTML, CSS, C#, Java, Oracle DB, MySQL<br>Adobe Illustrator</td>
         <td>Front-end<br>UI Designer</td>
       </tr>
     </table>
