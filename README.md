@@ -188,7 +188,7 @@ Key Deliverables
   </tr>
   <tr>
     <td align="center">8</td>
-    <td>Final Prototype</td>
+    <td>Final Prototype with Conference Poster</td>
     <td align="center">Week 13</td>
     <td align="center">25 Oct 17</td>
   </tr>
