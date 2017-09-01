@@ -48,7 +48,7 @@ User also able to browse and search for their interest in a list after searching
   <th>Roles</th>
   </tr>
   <tr>
-  <td>Jermin Yoo</td>
+  <td>Jemin Yoo</td>
   <td>44260497</td>
   <td>DECO7350</td>
   <td>Python, Adobe Illustrator</td>
@@ -143,45 +143,54 @@ Key Deliverables
     <th align="center">No.</th>
     <th align="center">Name</th>
     <th align="center">Due Date</th>
+    <th align="center">Remarks</th>
   </tr>
   <tr>
     <td align="center">1</td>
     <td>Pitch proposal</td>
     <td align="center">01 Sep 17</td>
+    <td align="center">Week 6</td>
   </tr>
   <tr>
     <td align="center">2</td>
     <td>Requirement Definition</td>
     <td align="center">05 Sep 17</td>
+    <td align="center">Week 7</td>
   </tr>
   <tr>
     <td align="center">3</td>
     <td>Design Report</td>
     <td align="center">09 Sep 17</td>
+    <td align="center">Week 7</td>
   </tr>
   <tr>
     <td align="center">4</td>
     <td>Low-Fidelity Prototype</td>
     <td align="center">13 Sep 17</td>
+    <td align="center">Week 8</td>
   </tr>
     <td align="center">5</td>
     <td>UI Layout & Codes</td>
     <td align="center">30 Oct 17</td>
+    <td align="center">Week 9</td>
   </tr>
   <tr>
     <td align="center">6</td>
     <td>User Test Report</td>
     <td align="center">04 Oct 17</td>
+    <td align="center">Week 10</td>
   </tr>
   <tr>
     <td align="center">7</td>
     <td>Interactive Prototype</td>
     <td align="center">18 Oct 17</td>
+    <td align="center">Week 12</td>
   </tr>
   <tr>
     <td align="center">8</td>
     <td>Final Prototype</td>
     <td align="center">25 Oct 17</td>
+    <td align="center">Week 13</td>
   </tr>
 </table>
   
