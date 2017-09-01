@@ -120,6 +120,8 @@ Normally our group will meeting online out of the class time by using some of th
 </ol>
 
 # The Testing Approach
+Next week, we planed to de the user testing of paper prototype. Firstly, test cases will be developed to observe the users’ reactions. Other than that, designers will record each action of a user and the timeslot the user spend to accomplish the tasks.Lastly, data recorded will be analysed to determine the performance of users in completing the tasks in order to find out whether our paper prototype is well designed.
+
 Testing Process:
 First of all, make sure everything is ready before participant arrives. For example, electronic prototype/paper prototype, questionnaire. In particular, do not let participants see the questionnaire until I hand it to them to fill out.
 
@@ -142,13 +144,36 @@ Observational sheet:
 
 Next we will ask the participant to fill in the questionnaire after they finish the test. And check over the responses make sure that all parts have been filled out. Finally, tell the participant that the session is at an end. Thank the participant for their time. Let participant know that they are free to go.
 
+Example of questionnaire:
+                             Questionnaire
+ 
+Age:                                                    Gender
+1. Have you ever used similar application before?
+2. Do you know the targets of this application?
+3. Are there any missing functions that you need?
+4.Do you find any bugs when you use this application?
+5. How you keep in touch  with your friends/family?
+6. How you share passions/hobbies with your friends/family?
+
+The following questions use 1-5 scale (from strongly disagree to strongly agree) to valuate the answer.
+
+1. Do you think the font of this application is big enough to see?
+
+2. Do you think it is easy to find where to start the task?
+
+3.Are you satisfy with this application?
+
+4. Do you think it is easy to understand the layout and content of this application?
+
+5. If no, where and why?
+
 Moreover, other aspects of concept need to test:
 1.	The aspects which user feel not good.
 2.	The interface metaphor is suitable for users.
 3.	Explore more functions that can be used in our application an easily accepted by users.
 
 Evaluation Method:
-The feedback of participants is really useful for us to improve my design and concept. There are two effective and efficient methods for data collection and evaluation. Firstly, interviews could be helpful method for me to collect data and evaluate. Interviews are typical and can be conducted face to face that aim at gathering both facts and insights. Secondly, we also can ask further questions or do any activities in plan (paper prototype) which are useful for further data collection and evaluation.
+The feedback of participants is really useful for us to improve my design and concept. There are two effective and efficient methods for data collection and evaluation. Firstly, interviews could be helpful method for me to collect data and evaluate. Interviews are typical and can be conducted face to face that aim at gathering both facts and insights. Secondly, we also can ask further questions or do any activities in plan (paper prototype) which are useful for further data collection and evaluation. Other methods would be both quantitative and qualitative. Basically, the efficiency of completing an action by a user will be presented in varied way of representations. For example, an average, maximun and minimum value will be calculated. Moreover, visual representations will be provided as well, graphs will be developed to help designer and following researchers to have a better understanding of the user group and the prototype itself
 
 
 
