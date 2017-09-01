@@ -28,6 +28,22 @@ Elderly people who wants to share their experience wisdom of life
 Advantage of elderly: they have experience for some specific skill, and has lots of free time.  
 
 # Persona
+1. Jasmine is 77 years old (born in 1940) and lives in Townsville.
+   She has two daughters and three grandchildren.
+   Her husband died 6 months ago because of skin cancer.
+   She’s felt depressed after the death so one of her daughter lives with her now.
+   She’s hurt knee joints and always carried a cane since 2007.
+   She’s participated in a local volunteering club for teaching English to migrants since 2002.
+   Uses a mobile only for calling and texting.
+   Spends time for watching quiz shows at home.
+   Exercises twice a week in the swimming pool.
+   
+2. Virginia Moore is 81 years old and her hobbies are shopping, travelling, reading and listening to stories.
+   In daily life, Virginia likes to stay active and engaged with her surroundings.
+   Virginia enjoyes chatting with her friends and having random talks with other people. 
+   She always helps new residents get familiar with their surroundings.
+   She has more troubles remembering than before, but she still keeps studying.
+   She is proud of her education and her positive attitude of studying.
 
 
 # Concept
