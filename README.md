@@ -1,10 +1,10 @@
 <h1>Wrinkle-Free</h1>
-<h2># Introduction</h2>
+<h2>1. Introduction</h2>
 As the ageing continues around the world, the population of elderly people is steadily increasing. Now we live in a world where many people like to share their interest and passions,but it is defficult for the elderly. Because social network has failed to connect them in a meaningful way, the problem with most social networks for elder people is: the new technology is a big challenge for them, and it is difficult to meet people with shared interests online and have real conversations with them. It is a good problem space for us to make a change for them, elder people have a lot of advantage compare to other people :They are more experienced in specific area, they also have lots of free time, but we tend to overlook and we are wasting their talent and experience, because we don't know how to use it in the right place.
 
 By utilising information technology, we can build an online interactive platform to make the most of knowledge and experience from elderly people. By using elder people’s potential to share their experience and skill to other people, we can help them maintaining regular contact with the outside world in order to stay happy and healthy. We also need to think about cognitive challenges, means of supporting naturalistic social interaction and emotional needs.
 
-<h2># Backgound research</h2>
+<h3>2.1. Backgound</h3>
 We conducted our background research through browsing and searching for literature and research article online related to our topic, such as how advancement of information technology impact on elderly, how many of older adults have enthusiastically adopted it to keep up with the times as well as their old acquaintances and younger family members, percentage of internet usage among older adults, how to utilise the advantage of social technology to benefits elderly people and much more. Below are few main points we taken from several research article and website with supportive statements. 
 <ol>
   <li>Positive attitudes were most frequently related to how the technology supported activities, enhanced convenience, and contained useful features. Negative attitudes were most frequently associated with technology creating inconveniences, unhelpful features, as well as security and reliability concerns.</li>
@@ -23,7 +23,7 @@ We conducted our background research through browsing and searching for literatu
 <li>Kamiel, A. (2016, 07 03). A Hot Trend: The Internet, Social Media & The Elderly. Retrieved from The Blog: http://www.huffingtonpost.com/anita-kamiel-rn-mps/older-people-social-media_b_9191178.html</li>
 </ol>
 
-# Target audience
+<h3>2.2. Audience</h3>
 Elderly people who are socially isolated and wants to share their experience wisdom of life, develop their hobbies and learning some knowledge. Advantage of elderly: they have experience for some specific skill, and has lots of free time.  
 
 # Persona
@@ -33,7 +33,7 @@ Elderly people who are socially isolated and wants to share their experience wis
 [Other Persona1.](https://github.com/deco3500-2017/Wrinkle-Free/blob/master/1.jpg)
 [Persona2](https://github.com/deco3500-2017/Wrinkle-Free/blob/master/2.jpg)
 
-<h2># Concept</h2>
+<h2>2. Concept</h2>
 A large amount of elderly people are socially isolated for they feel difficult to contact with their relatives, friends and medical first aid. Thus they require an platform that helps them develop hobbies, maintain and enhance their social networks.Our concept would be creating a web based application for elderly where user able to post and share their knowledge or experience regarding their interest and passion for others to view and learn.It has similar feature like blog post where they can post text, images or video online, but it will be less complex where elderly able to understand and make use of the feature easily. All the post will be categorised by tag, for example if they post some cooking recipe the tag will be under “cooking” section. Each post has a comment section for user to comment。
 
 During the signup process, user can select their interest in the selection field, they have a few default selection such as gardening, cooking, tailoring, and much more for user to choose. User also able to select multiple interest based on their preference. After successful login they will be navigated to the main page where it consist of multiple post shared by other users. All the post were filtered and categorised according to user’s field of interest. 
@@ -42,7 +42,7 @@ User also able to browse and search for their interest in a list after searching
 
 One sentence statement: Create an application on smartphone(form of the solution) which is older user friendly(level of user support) for those socially isolated older people (identity of users) , via passion/hobbies, sharing images/videos/texts by users (activities to be supported).
 
-<h2># Team</h2>
+<h2>3. Team</h2>
   <body>
   <table>
   <tr>
@@ -90,9 +90,8 @@ One sentence statement: Create an application on smartphone(form of the solution
   </body>
  We have five people in our team with different kinds of develop skill, we will separate our project in different part and make sure all members in our team have equal amount of work to work on during the project development. For our team, Ga sheng and adrian will be in charge of front-end and back-end, Stanley and Chen will be UX designer and Jemin for front end and ui design. For working as a team, we are respect to all our team member and make sure all team member have a chance to explore their idea and thinking for decision making, during the decision making for some important task or design, we will let all the members in our group to speak and see what they think. If ⅗ people in our group have same idea, we will follow the idea that we rote. If we cannot make the decision, we may ask for a tutor or professor help. If one of the team member are not working well in our team, we may run a meeting to discuss with him, to make sure why he will do something on this way, and can we can solve this problem. In our team communication and respect is very important. We make sure all people have their chance to talk and explore idea.  
 
-# Communication
+<h2>4. Communications</h2>
 Normally our group will meeting online out of the class time by using some of the online platform. We will run a meeting for tracking the work done one time per week. And For our team communication, we are using the following platform, Slack, google drive, trello board, Github, facebook messenger. Facebook messenger is normally use for daily conversation between our group members out of class time, for remind people to work on the job, due day for report and etc. Slack also used as a platform to communicate between team member, and we can check the updated news that post by DECO 3500 staffs and also contact them for help during the semester. We will upload all the material and job on google drive for sharing to all our teammate, it is easy for all teammate to update and fix the document on the same time, for non-coding staff, for coding staff, we are using the github repository, to upload and put all our coding thing during this semester. Trello board  is used to organize and collaborate team works. For remind and marking our work by step. If one of our teammate didn’t respond to a message for long time, we will try to contact him by calling his phone, if still not respond, we may contact DECO 3500 staffs for following action.
-
 
 <ol>
 <li>Google Drive. We will upload all the materials and task on google drive for sharing to all our teammate, since it’s easy for team members to update and fix the document at the same time for non-coding stuff. </li>
@@ -105,7 +104,7 @@ Normally our group will meeting online out of the class time by using some of th
 <li>If a team member didn't respond to a message, we would reach him directly. If we still cannot contact him, we will report this action to the DECO 3500 staffs.</li>
 </ol>
 
-# The Testing Approach
+<h3>5.3. The Testing Approach</h3>
 Next week, we planed to de the user testing of paper prototype. Firstly, test cases will be developed to observe the users’ reactions. Other than that, designers will record each action of a user and the timeslot the user spend to accomplish the tasks.Lastly, data recorded will be analysed to determine the performance of users in completing the tasks in order to find out whether our paper prototype is well designed.
 
 Testing Process:
@@ -163,9 +162,8 @@ The feedback of participants is really useful for us to improve my design and co
 
 
 
-<h2># Plan</h2>
-
-<h3>Key Deliverables</h3>
+<h2>5. Plan</h2>
+<h3>5.1. Key Deliverables</h3>
 <table>
   <tr>
     <th align="center">No.</th>
@@ -222,7 +220,7 @@ The feedback of participants is really useful for us to improve my design and co
   </tr>
 </table>
 
-<h3>Project Schedule</h3>
+<h3>5.2. Project Schedule</h3>
 <table>
   <tr>
     <th align="center">Phase</th>
@@ -378,7 +376,7 @@ The feedback of participants is really useful for us to improve my design and co
   </tr>
 </table>
 
-# Tags
+<h2>6. Tags</h2>
 #Collaboration Transparency (Multiple Single-user)
 #WYSIWIS (What You See Is What I See)
 #Technology
@@ -386,5 +384,3 @@ The feedback of participants is really useful for us to improve my design and co
 #Awareness (Knowing who is around, what is happening, and who is talking with whom)
 #Aging
 #Social & Mobile
-
-
