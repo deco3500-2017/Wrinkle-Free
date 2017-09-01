@@ -145,29 +145,35 @@ Key Deliverables
     <th align="center">Due Date</th>
   </tr>
   <tr>
-    <td>1</td>
+    <td align="center">1</td>
     <td>Pitch proposal</td>
-    <td>01 Sep 17</td>
+    <td align="center">01 Sep 17</td>
   </tr>
   <tr>
-    <td>2</td>
-    <td>Low-Fidelity Prototypes</td>
-    <td>12 Sep 17</td>
+    <td align="center">2</td>
+    <td>Low-Fidelity Prototype</td>
+    <td align="center">12 Sep 17</td>
   </tr>
-    <td>3</td>
-    <td>44462938</td>
-    <td>DECO7350</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>43848928</td>
-    <td>DECO3500</td>
+    <td align="center">3</td>
+    <td>UI Layout & Codes</td>
+    <td align="center">XXXXXXXXXX</td>
   </tr>
   <tr>
-    <td>5</td>
-    <td>43442522</td>
-    <td>DECO3500</td>
+    <td align="center">4</td>
+    <td>User Test Report</td>
+    <td align="center">XXXXXXXXXX</td>
   </tr>
+  <tr>
+    <td align="center">5</td>
+    <td>Interactive Prototype</td>
+    <td align="center">XXXXXXXXXX</td>
+  </tr>
+  <tr>
+    <td align="center">6</td>
+    <td>Promotional Materials</td>
+    <td align="center">XXXXXXXXXX</td>
+  </tr>
+  
 </table>
   
   Identify the key tasks that need to be completed and when. Identify:
