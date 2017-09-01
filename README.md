@@ -172,7 +172,7 @@ Key Deliverables
     <td align="center">5</td>
     <td>UI Layout & Codes</td>
     <td align="center">Week 09</td>
-    <td align="center">30 Oct 17</td>
+    <td align="center">30 Sep 17</td>
   </tr>
   <tr>
     <td align="center">6</td>
