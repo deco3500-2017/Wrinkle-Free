@@ -386,7 +386,7 @@ Project Schedule
 #Technology
 #Shared Information Space
 #Awareness (Knowing who is around, what is happening, and who is talking with whom)
-#Communication
+#Aging
 #Social & Mobile
 
 
