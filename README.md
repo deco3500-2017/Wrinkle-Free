@@ -149,30 +149,30 @@ Key Deliverables
     <td align="center">1</td>
     <td>Pitch proposal</td>
     <td align="center">01 Sep 17</td>
-    <td align="center">Week 6</td>
+    <td align="center">Week 06</td>
   </tr>
   <tr>
     <td align="center">2</td>
     <td>Requirement Definition</td>
     <td align="center">05 Sep 17</td>
-    <td align="center">Week 7</td>
+    <td align="center">Week 07</td>
   </tr>
   <tr>
     <td align="center">3</td>
     <td>Design Report</td>
     <td align="center">09 Sep 17</td>
-    <td align="center">Week 7</td>
+    <td align="center">Week 07</td>
   </tr>
   <tr>
     <td align="center">4</td>
     <td>Low-Fidelity Prototype</td>
     <td align="center">13 Sep 17</td>
-    <td align="center">Week 8</td>
+    <td align="center">Week 08</td>
   </tr>
     <td align="center">5</td>
     <td>UI Layout & Codes</td>
     <td align="center">30 Oct 17</td>
-    <td align="center">Week 9</td>
+    <td align="center">Week 09</td>
   </tr>
   <tr>
     <td align="center">6</td>
@@ -193,8 +193,7 @@ Key Deliverables
     <td align="center">Week 13</td>
   </tr>
 </table>
-  
-  Identify the key tasks that need to be completed and when. Identify:
+
 <br><b># Week 6</b></br>
 <p>Activities - Fix the idea & concept / Conduct research / Primary user research & user persona</p>
 <br>Deliverables - Pitch proposal</br>
