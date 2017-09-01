@@ -194,25 +194,161 @@ Key Deliverables
   </tr>
 </table>
 
-<br><b># Week 6</b></br>
-<p>Activities - Fix the idea & concept / Conduct research / Primary user research & user persona</p>
-<br>Deliverables - Pitch proposal</br>
-<br><b># Week 7</b></br>
-<br>Activities - Gather data / Establish requirements / Design screen layout, database and system architecture / Prepare standup in week 8</br>
-<br>Deliverables - Low-fidelity prototype</br>
-<br><b># Week 8</b></br>
-<br>Activities - Set up DEV environment / Develop UI & programs</br>
-<br>Deliverables - UI Layout / Codes</br>
-<br><b># Week 9</b></br>
-<br>Activities - Conduct the user test / Prepare standup in week 10</br>
-<br>Deliverables - Results of user testing</br>
-<br><b># Week 10</b></br>
-<br>Activities - Debug programs & Fix errors / Prepare the conference poster</br>
-<br><b># Week 11</b></br>
-<br>Activities - Prepare standup in week 12</br>
-<br>Deliverables - Interactive prototype</br>
-<br><b># Week 12</b></br>
-<br>Activities - Prepare promotional material(kickstarter video / website / brochure or information sheets)</br>
+Project Schedule
+<table>
+  <tr>
+    <th align="center">Phase</th>
+    <th align="center">Activities</th>
+    <th align="center">Deliverables</th>
+    <th align="center">People</th>
+    <th align="center">Start</th>
+    <th align="center">Finish</th>
+  </tr>
+  <tr>
+    <td>N/A</td>
+    <td>Review & Iteration</td>
+    <td>N/A</td>
+    <td align="center">ALL</td>
+    <td align="center">23 Aug 17</td>
+    <td align="center">18 Oct 17</td>
+  </tr>
+  <tr>
+    <td>Research</td>
+    <td>Fix the idea & concept</td>
+    <td>Pitch proposal</td>
+    <td align="center">ALL</td>
+    <td align="center">23 Aug 17</td>
+    <td align="center">25 Aug 17</td>
+  </tr>
+  <tr>
+    <td>Research</td>
+    <td>Conduct research</td>
+    <td>N/A</td>
+    <td align="center">ALL</td>
+    <td align="center">25 Aug 17</td>
+    <td align="center">31 Aug 17</td>
+  </tr>
+  <tr>
+    <td>Research</td>
+    <td>Gather data</td>
+    <td>N/A</td>
+    <td align="center">ALL</td>
+    <td align="center">25 Aug 17</td>
+    <td align="center">31 Aug 17</td>
+  </tr>
+  <tr>
+    <td>Research</td>
+    <td>Define requirements</td>
+    <td>Requirement Definition</td>
+    <td align="center">ALL</td>
+    <td align="center">01 Sep 17</td>
+    <td align="center">05 Sep 17</td>
+  </tr>
+  <tr>
+    <td>Design</td>
+    <td>Screen Layout</td>
+    <td>Design Report</td>
+    <td align="center">ALL</td>
+    <td align="center">06 Sep 17</td>
+    <td align="center">09 Sep 17</td>
+  </tr>
+  <tr>
+    <td>Design</td>
+    <td>Database</td>
+    <td>Design Report</td>
+    <td align="center">ALL</td>
+    <td align="center">06 Sep 17</td>
+    <td align="center">09 Sep 17</td>
+  </tr>
+  <tr>
+    <td>Design</td>
+    <td>System Architecture</td>
+    <td>Design Report</td>
+    <td align="center">ALL</td>
+    <td align="center">06 Sep 17</td>
+    <td align="center">09 Sep 17</td>
+  </tr>
+  <tr>
+    <td>Design</td>
+    <td>Stand-ups</td>
+    <td>Low-Fidelity Prototype</td>
+    <td align="center">ALL</td>
+    <td align="center">10 Sep 17</td>
+    <td align="center">13 Sep 17</td>
+  </tr>
+  <tr>
+    <td>Development</td>
+    <td>DEV Setup</td>
+    <td>N/A</td>
+    <td align="center">ALL</td>
+    <td align="center">14 Sep 17</td>
+    <td align="center">15 Sep 17</td>
+  </tr>
+  <tr>
+    <td>Development</td>
+    <td>UI Design (Detail)</td>
+    <td>UI Design</td>
+    <td align="center">Jemin, Chenwu and Weiguang</td>
+    <td align="center">16 Sep 17</td>
+    <td align="center">23 Sep 17</td>
+  </tr>
+  <tr>
+    <td>Development</td>
+    <td>Coding</td>
+    <td>Code</td>
+    <td align="center">Jemin, Ga Sheng, Kin San</td>
+    <td align="center">16 Sep 17</td>
+    <td align="center">30 Sep 17</td>
+  </tr>
+  <tr>
+    <td>Development</td>
+    <td>Unit Test</td>
+    <td>Unit Test Scenario</td>
+    <td align="center">Chenwu, Ga Sheng</td>
+    <td align="center">29 Sep 17</td>
+    <td align="center">01 Oct 17</td>
+  </tr>
+  <tr>
+    <td>Development</td>
+    <td>Stand-ups</td>
+    <td>Unit Test Report</td>
+    <td align="center">Weiguang, Kin San</td>
+    <td align="center">02 Oct 17</td>
+    <td align="center">04 Oct 17</td>
+  </tr>
+  <tr>
+    <td>Test</td>
+    <td>Debugging</td>
+    <td>Bug List</td>
+    <td align="center">Jemin, Ga Sheng, Kin San</td>
+    <td align="center">05 Oct 17</td>
+    <td align="center">11 Oct 17</td>
+  </tr>
+  <tr>
+    <td>Test</td>
+    <td>Stand-ups</td>
+    <td>Interactive Prototype</td>
+    <td align="center">ALL</td>
+    <td align="center">12 Oct 17</td>
+    <td align="center">18 Oct 17</td>
+  </tr>
+  <tr>
+    <td>Finalisation</td>
+    <td>Showcase</td>
+    <td>Conference Poster</td>
+    <td align="center">Jemin, Chenwu, Weiguang</td>
+    <td align="center">22 Oct 17</td>
+    <td align="center">24 Oct 17</td>
+  </tr>
+  <tr>
+    <td>Finalisation</td>
+    <td>Stand-ups</td>
+    <td>Final Prototype</td>
+    <td align="center">ALL</td>
+    <td align="center">21 Oct 17</td>
+    <td align="center">25 Oct 17</td>
+  </tr>
+</table>
 
 # Tags
 #Collaboration Transparency (Multiple Single-user)
