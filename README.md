@@ -45,45 +45,46 @@ Elderly people who are socially isolated and wants to share their experience wis
   <body>
   <table>
   <tr>
-  <th align="center"><strong>Student Name</strong></th>
-  <th align="center">Student Number</th>
-  <th align="center">Course Code</th>
-  <th align="center">Skills</th>
-  <th align="center">Roles</th>
+    <th align="center"><strong>Student Name</strong></th>
+    <th align="center">Student Number</th>
+    <th align="center">Course Code</th>
+    <th align="center">Skills</th>
+    <th align="center">Roles and responsibilities</th>
   </tr>
   <tr>
-  <td align="center">Jemin Yoo</td>
-  <td align="center">44260497</td>
-  <td align="center">DECO7350</td>
-  <td>Python, Adobe Illustrator</td>
-  <td>Front-end and UI Designer</td>
+    <td align="center">Chenwu Han</td>
+    <td align="center">44174633</td>
+    <td align="center">DECO7350</td>
+    <td>HTML, CSS, Python, Adobe Softwares</td>
+    <td>UX Designer</td>
   </tr>
   <tr>
-  <td align="center">Chenwu Han</td>
-  <td align="center">44174633</td>
-  <td align="center">DECO7350</td>
-  <td>HTML, CSS, Python, Adobe Softwares</td>
-  <td>UX Designer</td>
-  </tr>
-  <td align="center">Yau Ga Sheng</td>
-  <td align="center">44462938</td>
-  <td align="center">DECO7350</td>
-  <td>HTML, CSS, Java, Python, SQL Database, Adobe Photoshop</td>
-  <td>Front-end and Back-end</td>
+    <td align="center">Jemin Yoo</td>
+    <td align="center">44260497</td>
+    <td align="center">DECO7350</td>
+    <td>Python, Adobe Illustrator</td>
+    <td>Front-end<br>UI Designer</td>
   </tr>
   <tr>
-  <td align="center">Kin San Poon</td>
-  <td align="center">43848928</td>
-  <td align="center">DECO3500</td>
-  <td>HTML, CSS, Java, PHP, Python, Database, Adobe Illustrator</td>
-  <td>Front-end and Back-end</td>
+    <td align="center">Kin San Poon</td>
+    <td align="center">43848928</td>
+    <td align="center">DECO3500</td>
+    <td>HTML, CSS, Java, PHP, Python, Database, Adobe Illustrator</td>
+    <td>Front-end<br>Back-end</td>
   </tr>
   <tr>
-  <td align="center">Weiguang Hou</td>
-  <td align="center">43442522</td>
-  <td align="center">DECO3500</td>
-  <td>HTML, CSS, Python, Adobe Photoshop, Adobe Illustrator</td>
-  <td>UX Designer</td>
+    <td align="center">Weiguang Hou</td>
+    <td align="center">43442522</td>
+    <td align="center">DECO3500</td>
+    <td>HTML, CSS, Python, Adobe Photoshop, Adobe Illustrator</td>
+    <td>UX Designer</td>
+  </tr>
+  <tr>  
+    <td align="center">Yau Ga Sheng</td>
+    <td align="center">44462938</td>
+    <td align="center">DECO7350</td>
+    <td>HTML, CSS, Java, Python, SQL Database, Adobe Photoshop</td>
+    <td>Front-end<br>Back-end</td>
   </tr>
   </table>
   </body>
