@@ -151,29 +151,38 @@ Key Deliverables
   </tr>
   <tr>
     <td align="center">2</td>
-    <td>Low-Fidelity Prototype</td>
-    <td align="center">12 Sep 17</td>
+    <td>Requirement Definition</td>
+    <td align="center">05 Sep 17</td>
   </tr>
+  <tr>
     <td align="center">3</td>
-    <td>UI Layout & Codes</td>
-    <td align="center">XXXXXXXXXX</td>
+    <td>Design Report</td>
+    <td align="center">09 Sep 17</td>
   </tr>
   <tr>
     <td align="center">4</td>
-    <td>User Test Report</td>
-    <td align="center">XXXXXXXXXX</td>
+    <td>Low-Fidelity Prototype</td>
+    <td align="center">13 Sep 17</td>
   </tr>
-  <tr>
     <td align="center">5</td>
-    <td>Interactive Prototype</td>
-    <td align="center">XXXXXXXXXX</td>
+    <td>UI Layout & Codes</td>
+    <td align="center">30 Oct 17</td>
   </tr>
   <tr>
     <td align="center">6</td>
-    <td>Promotional Materials</td>
-    <td align="center">XXXXXXXXXX</td>
+    <td>User Test Report</td>
+    <td align="center">04 Oct 17</td>
   </tr>
-  
+  <tr>
+    <td align="center">7</td>
+    <td>Interactive Prototype</td>
+    <td align="center">18 Oct 17</td>
+  </tr>
+  <tr>
+    <td align="center">8</td>
+    <td>Final Prototype</td>
+    <td align="center">25 Oct 17</td>
+  </tr>
 </table>
   
   Identify the key tasks that need to be completed and when. Identify:
