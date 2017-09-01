@@ -146,8 +146,8 @@ Next we will ask the participant to fill in the questionnaire after they finish 
 
 Example of questionnaire:
        
- 
-Age:                                                       Gender:
+Age:
+Gender:
 1. Have you ever used similar application before?
 2. Do you know the targets of this application?
 3. Are there any missing functions that you need?
@@ -161,7 +161,7 @@ The following questions use 1-5 scale (from strongly disagree to strongly agree)
 
 2. Do you think it is easy to find where to start the task?
 
-3.Are you satisfy with this application?
+ 3. Are you satisfy with this application?
 
 4. Do you think it is easy to understand the layout and content of this application?
 
