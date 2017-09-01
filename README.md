@@ -45,7 +45,8 @@ Elderly people who are socially isolated and wants to share their experience wis
    She has more troubles remembering than before, but she still keeps studying.
    She is proud of her education and her positive attitude of studying.
    
-[image](https://github.com/deco3500-2017/Wrinkle-Free/blob/master/1.jpg)
+[Persona1](https://github.com/deco3500-2017/Wrinkle-Free/blob/master/1.jpg)
+[Persona2](https://github.com/deco3500-2017/Wrinkle-Free/blob/master/2.jpg)
 
 # Concept
 A large amount of elderly people are socially isolated for they feel difficult to contact with their relatives, friends and medical first aid. Thus they require an platform that helps them develop hobbies, maintain and enhance their social networks.Our concept would be creating a web based application for elderly where user able to post and share their knowledge or experience regarding their interest and passion for others to view and learn.It has similar feature like blog post where they can post text, images or video online, but it will be less complex where elderly able to understand and make use of the feature easily. All the post will be categorised by tag, for example if they post some cooking recipe the tag will be under “cooking” section. Each post has a comment section for user to comment。
