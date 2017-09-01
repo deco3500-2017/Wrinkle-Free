@@ -288,7 +288,7 @@ Project Schedule
     <td>Development</td>
     <td>UI Design (Detail)</td>
     <td>UI Design</td>
-    <td align="center">Jemin, Chenwu and Weiguang</td>
+    <td align="center">Jemin<br>, Chenwu and Weiguang</td>
     <td align="center">16 Sep 17</td>
     <td align="center">23 Sep 17</td>
   </tr>
