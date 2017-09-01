@@ -288,7 +288,7 @@ Project Schedule
     <td>Development</td>
     <td>UI Design (Detail)</td>
     <td>UI Design</td>
-    <td align="center">Jemin<br>, Chenwu and Weiguang</td>
+    <td align="center">Jemin<br>Chenwu<br>Weiguang</td>
     <td align="center">16 Sep 17</td>
     <td align="center">23 Sep 17</td>
   </tr>
@@ -296,7 +296,7 @@ Project Schedule
     <td>Development</td>
     <td>Coding</td>
     <td>Code</td>
-    <td align="center">Jemin, Ga Sheng and Kin San</td>
+    <td align="center">Jemin<br>Ga Sheng<br>Kin San</td>
     <td align="center">16 Sep 17</td>
     <td align="center">30 Sep 17</td>
   </tr>
@@ -304,7 +304,7 @@ Project Schedule
     <td>Development</td>
     <td>Unit Test</td>
     <td>Unit Test Scenario</td>
-    <td align="center">Chenwu and Ga Sheng</td>
+    <td align="center">Chenwu<br>Ga Sheng</td>
     <td align="center">29 Sep 17</td>
     <td align="center">01 Oct 17</td>
   </tr>
@@ -312,7 +312,7 @@ Project Schedule
     <td>Development</td>
     <td>Stand-ups</td>
     <td>Unit Test Report</td>
-    <td align="center">Weiguang and Kin San</td>
+    <td align="center">Weiguang<br>Kin San</td>
     <td align="center">02 Oct 17</td>
     <td align="center">04 Oct 17</td>
   </tr>
@@ -320,7 +320,7 @@ Project Schedule
     <td>Test</td>
     <td>Debugging</td>
     <td>Bug List</td>
-    <td align="center">Jemin, Ga Sheng and Kin San</td>
+    <td align="center">Jemin<br>Ga Sheng<br>Kin San</td>
     <td align="center">05 Oct 17</td>
     <td align="center">11 Oct 17</td>
   </tr>
@@ -336,7 +336,7 @@ Project Schedule
     <td>Finalisation</td>
     <td>Showcase</td>
     <td>Conference Poster</td>
-    <td align="center">Jemin, Chenwu and Weiguang</td>
+    <td align="center">Jemin<br>Chenwu<br>Weiguang</td>
     <td align="center">22 Oct 17</td>
     <td align="center">24 Oct 17</td>
   </tr>
