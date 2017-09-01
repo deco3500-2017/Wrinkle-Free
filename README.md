@@ -205,9 +205,9 @@ Project Schedule
     <th align="center">Finish</th>
   </tr>
   <tr>
-    <td>N/A</td>
+    <td align="center">N/A</td>
     <td>Review & Iteration</td>
-    <td>N/A</td>
+    <td align="center">N/A</td>
     <td align="center">ALL</td>
     <td align="center">23 Aug 17</td>
     <td align="center">18 Oct 17</td>
@@ -223,7 +223,7 @@ Project Schedule
   <tr>
     <td>Research</td>
     <td>Conduct research</td>
-    <td>N/A</td>
+    <td align="center">N/A</td>
     <td align="center">ALL</td>
     <td align="center">25 Aug 17</td>
     <td align="center">31 Aug 17</td>
@@ -231,7 +231,7 @@ Project Schedule
   <tr>
     <td>Research</td>
     <td>Gather data</td>
-    <td>N/A</td>
+    <td align="center">N/A</td>
     <td align="center">ALL</td>
     <td align="center">25 Aug 17</td>
     <td align="center">31 Aug 17</td>
@@ -279,7 +279,7 @@ Project Schedule
   <tr>
     <td>Development</td>
     <td>DEV Setup</td>
-    <td>N/A</td>
+    <td align="center">N/A</td>
     <td align="center">ALL</td>
     <td align="center">14 Sep 17</td>
     <td align="center">15 Sep 17</td>
@@ -296,7 +296,7 @@ Project Schedule
     <td>Development</td>
     <td>Coding</td>
     <td>Code</td>
-    <td align="center">Jemin, Ga Sheng, Kin San</td>
+    <td align="center">Jemin, Ga Sheng and Kin San</td>
     <td align="center">16 Sep 17</td>
     <td align="center">30 Sep 17</td>
   </tr>
@@ -304,7 +304,7 @@ Project Schedule
     <td>Development</td>
     <td>Unit Test</td>
     <td>Unit Test Scenario</td>
-    <td align="center">Chenwu, Ga Sheng</td>
+    <td align="center">Chenwu and Ga Sheng</td>
     <td align="center">29 Sep 17</td>
     <td align="center">01 Oct 17</td>
   </tr>
@@ -312,7 +312,7 @@ Project Schedule
     <td>Development</td>
     <td>Stand-ups</td>
     <td>Unit Test Report</td>
-    <td align="center">Weiguang, Kin San</td>
+    <td align="center">Weiguang and Kin San</td>
     <td align="center">02 Oct 17</td>
     <td align="center">04 Oct 17</td>
   </tr>
@@ -320,7 +320,7 @@ Project Schedule
     <td>Test</td>
     <td>Debugging</td>
     <td>Bug List</td>
-    <td align="center">Jemin, Ga Sheng, Kin San</td>
+    <td align="center">Jemin, Ga Sheng and Kin San</td>
     <td align="center">05 Oct 17</td>
     <td align="center">11 Oct 17</td>
   </tr>
@@ -336,7 +336,7 @@ Project Schedule
     <td>Finalisation</td>
     <td>Showcase</td>
     <td>Conference Poster</td>
-    <td align="center">Jemin, Chenwu, Weiguang</td>
+    <td align="center">Jemin, Chenwu and Weiguang</td>
     <td align="center">22 Oct 17</td>
     <td align="center">24 Oct 17</td>
   </tr>
