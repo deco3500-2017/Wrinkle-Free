@@ -136,7 +136,41 @@ The feedback of participants is really useful for us to improve my design and co
 
 
 # Plan
-Identify the key tasks that need to be completed and when. Identify:
+
+Key Deliverables
+<table>
+  <tr>
+    <th align="center">No.</th>
+    <th align="center">Name</th>
+    <th align="center">Due Date</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Pitch proposal</td>
+    <td>01 Sep 17</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Low-Fidelity Prototypes</td>
+    <td>12 Sep 17</td>
+  </tr>
+    <td>3</td>
+    <td>44462938</td>
+    <td>DECO7350</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>43848928</td>
+    <td>DECO3500</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>43442522</td>
+    <td>DECO3500</td>
+  </tr>
+</table>
+  
+  Identify the key tasks that need to be completed and when. Identify:
 <br><b># Week 6</b></br>
 <p>Activities - Fix the idea & concept / Conduct research / Primary user research & user persona</p>
 <br>Deliverables - Pitch proposal</br>
