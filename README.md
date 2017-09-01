@@ -145,13 +145,13 @@ Observational sheet:
 Next we will ask the participant to fill in the questionnaire after they finish the test. And check over the responses make sure that all parts have been filled out. Finally, tell the participant that the session is at an end. Thank the participant for their time. Let participant know that they are free to go.
 
 Example of questionnaire:
-                             Questionnaire
+       
  
-Age:                                                    Gender
+Age:                                                       Gender:
 1. Have you ever used similar application before?
 2. Do you know the targets of this application?
 3. Are there any missing functions that you need?
-4.Do you find any bugs when you use this application?
+4. Do you find any bugs when you use this application?
 5. How you keep in touch  with your friends/family?
 6. How you share passions/hobbies with your friends/family?
 
