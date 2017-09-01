@@ -37,6 +37,7 @@ Elderly people who are socially isolated and wants to share their experience wis
    Spends time for watching quiz shows at home.
    Exercises twice a week in the swimming pool.
    
+   
 2. Virginia Moore is 81 years old and her hobbies are shopping, travelling, reading and listening to stories.
    In daily life, Virginia likes to stay active and engaged with her surroundings.
    Virginia enjoyes chatting with her friends and having random talks with other people. 
