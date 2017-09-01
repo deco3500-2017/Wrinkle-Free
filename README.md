@@ -370,10 +370,16 @@ Evaluation Method:
 The feedback of participants is really useful for us to improve my design and concept. There are two effective and efficient methods for data collection and evaluation. Firstly, interviews could be helpful method for me to collect data and evaluate. Interviews are typical and can be conducted face to face that aim at gathering both facts and insights. Secondly, we also can ask further questions or do any activities in plan (paper prototype) which are useful for further data collection and evaluation. Other methods would be both quantitative and qualitative. Basically, the efficiency of completing an action by a user will be presented in varied way of representations. For example, an average, maximun and minimum value will be calculated. Moreover, visual representations will be provided as well, graphs will be developed to help designer and following researchers to have a better understanding of the user group and the prototype itself
 
 <h2>6. Tags</h2>
-#Collaboration Transparency (Multiple Single-user)
-#WYSIWIS (What You See Is What I See)
-#Technology
-#Shared Information Space
-#Awareness (Knowing who is around, what is happening, and who is talking with whom)
-#Aging
-#Social & Mobile
+<h3>6.1. Key Concepts</h3>
+<ul>
+  <li>Collaboration Transparency (Multiple Single-user)</li>
+  <li>WYSIWIS (What You See Is What I See)</li>
+  <li>Technology</li>
+  <li>Shared Information Space</li>
+  <li>Awareness (Knowing who is around, what is happening, and who is talking with whom)</li>
+</ul>
+<h3>6.2. Keywords</h3>
+<ul>
+  <li>Aging</li>
+  <li>Social & Mobile</li>
+</ul>
