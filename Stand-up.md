@@ -5,7 +5,7 @@
 <h4>1. Completion</h4>
   <ol>
     <li>Team established additional requirements based on both initial and additional research.
-      <br>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week10/Requirements_051017.pdf
+      <br>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week10_Iteration/Requirements_051017.pdf
     </li>
     <li>Meeting minutes
       <br>XXXXX
@@ -22,7 +22,7 @@
   <ol>
     <li>Team updated paper prototype from feedback on week 8 stand-up.</li>
     <li>Team did additional research for target audiences related to web security, elderly behaviour, technology device.
-      <br>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week10/Research_041017.pdf
+      <br>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week10_Iteration/Research_041017.pdf
     </li>
     <li>Meeting minutes
       <br>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_011017.pdf
