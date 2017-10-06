@@ -16,7 +16,6 @@
       <br>[ADD LINK]
     </li>
   </ol>
-<br>
 <h4>2. Things to do next two weeks</h4>
   <ol>
     <li>User testing will be conducted on 6 October.
@@ -135,7 +134,6 @@
     <li>XXXXX</li>
     <li>XXXXX</li>
   </ol>
-<br>
 <h4>2. Things to do next two weeks</h4>
   <ol>
     <li>XXXXX</li>
