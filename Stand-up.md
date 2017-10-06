@@ -1,19 +1,31 @@
 <h1>Stand-up</h1>
+<!--
 <h2>Week 12</h2>
 <h3>A. Group progress</h3>
+<h4>1. Completion</h4>
+  <ol>
+    <li>Team established additional requirements based on both initial and additional research.
+      <br>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week10/Requirements_051017.pdf
+    </li>
+    <li>Meeting minutes
+      <br>XXXXX
+    </li>
+  </ol>
+<h4>2. Things to do next two weeks</h4>
 <br>
 <h3>B. Individual progress</h3>
 <br><br>
+-->
 <h2>Week 10</h2>
 <h3>A. Group progress</h3>
-<h4>1. Comletion</h4>
+<h4>1. Completion</h4>
   <ol>
     <li>Team updated paper prototype from feedback on week 8 stand-up.</li>
     <li>Team did additional research for target audiences related to web security, elderly behaviour, technology device.
-      <br>[ADD LINK]
+      <br>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week10/Research_041017.pdf
     </li>
     <li>Meeting minutes
-      <br>[ADD LINK]
+      <br>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_011017.pdf
     </li>
   </ol>
 <h4>2. Things to do next two weeks</h4>
@@ -126,9 +138,10 @@
     </li>
   </ol>
 <br><br>
+<!--
 <h2>Week 8</h2>
 <h3>A. Group progress</h3>
-<h4>1. Comletion</h4>
+<h4>1. Completion</h4>
   <ol>
     <li>XXXXX</li>
     <li>XXXXX</li>
@@ -227,3 +240,4 @@
       </ul>
     </li>
   </ol>
+-->
