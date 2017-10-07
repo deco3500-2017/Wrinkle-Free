@@ -18,11 +18,9 @@
     <li>Meeting minutes
       <ul>
         <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_041017.pdf</li>
-        <!--
         <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_081017.pdf</li>
         <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_111017.pdf</li>
         <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_151017.pdf</li>
-        -->
       </ul>
     </li>
   </ol>
@@ -90,7 +88,7 @@
     <li>Completion
       <ul>
         <li>I defined requirements based on both initial and additional research. (05/10)</li>
-        <li>I updated documents and restructed the repository in Github. (05/10~07/10)</li>
+        <li>I updated documents and restructed the repository in Github. (05/10~08/10)</li>
       </ul>
     </li>
     <li>Things to do for next two weeks
