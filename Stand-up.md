@@ -2,7 +2,7 @@
 <h2>
 <ul>
   <!-- <li>Week 12</li> -->
-  <li><a style="color:black; text-decoration:none;" href="https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Stand-up.md#week-10">Week 10</a></li>
+  <li><a href="https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Stand-up.md#week-10">Week 10</a></li>
   <!-- <li>Week 8</li> -->
 </ul>
 </h2>
