@@ -8,12 +8,99 @@
       <br>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week10_Iteration/Requirements_051017.pdf
     </li>
     <li>Meeting minutes
-      <br>XXXXX
+      <br>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_041017.pdf
+      <br>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_081017.pdf
+      <br>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_111017.pdf
+      <br>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_151017.pdf
     </li>
   </ol>
 <h4>2. Things to do next two weeks</h4>
 <br>
 <h3>B. Individual progress</h3>
+<h4>1. Ga Sheng</h4>
+  <ol>
+    <li>Completion
+      <ul>
+        <li>XXXXX</li>
+        <li>XXXXX</li>
+        <li>XXXXX</li>
+      </ul>
+    </li>
+    <li>Things to do for next two weeks
+      <ul>
+        <li>XXXXX</li>
+        <li>XXXXX</li>
+        <li>XXXXX</li>
+      </ul>
+    </li>
+  </ol>
+<h4>2. Chenwu</h4>
+  <ol>
+    <li>Completion
+      <ul>
+        <li>XXXXX</li>
+        <li>XXXXX</li>
+        <li>XXXXX</li>
+      </ul>
+    </li>
+    <li>Things to do for next two weeks
+      <ul>
+        <li>XXXXX</li>
+        <li>XXXXX</li>
+        <li>XXXXX</li>
+      </ul>
+    </li>
+  </ol>
+<h4>3. Stanley</h4>
+  <ol>
+    <li>Completion
+      <ul>
+        <li>XXXXX</li>
+        <li>XXXXX</li>
+        <li>XXXXX</li>
+      </ul>
+    </li>
+    <li>Things to do for next two weeks
+      <ul>
+        <li>XXXXX</li>
+        <li>XXXXX</li>
+        <li>XXXXX</li>
+      </ul>
+    </li>
+  </ol>
+<h4>4. Jemin</h4>
+  <ol>
+    <li>Completion
+      <ul>
+        <li>I defined requirements based on both initial and recent research. (05/10)</li>
+        <li>I updated documents and restructed the repository in Github. (05/10~07/10)</li>
+      </ul>
+    </li>
+    <li>Things to do for next two weeks
+      <ul>
+        <li>XXXXX</li>
+        <li>XXXXX</li>
+        <li>XXXXX</li>
+      </ul>
+    </li>
+  </ol>
+<h4>5. Adrian</h4>
+  <ol>
+    <li>Completion
+      <ul>
+        <li>XXXXX</li>
+        <li>XXXXX</li>
+        <li>XXXXX</li>
+      </ul>
+    </li>
+    <li>Things to do for next two weeks
+      <ul>
+        <li>XXXXX</li>
+        <li>XXXXX</li>
+        <li>XXXXX</li>
+      </ul>
+    </li>
+  </ol>
 <br><br>
 -->
 <h2>Week 10</h2>
@@ -129,7 +216,6 @@
     </li>
     <li>Things to do for next two weeks
       <ul>
-        <li>I will double-check the progress of the project and compensate the defect throughout the project. (~23/10)</li>
         <li>I will support technical issues throughout the project, if any. (~23/10)</li>
         <li>I will define requirements based on recent research about target audiences. (05/10~08/10)</li>
         <li>I will update design layout of the website with team members using requirements from additional background research. (07/10~11/10)</li>
