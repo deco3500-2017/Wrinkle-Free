@@ -6,7 +6,6 @@
   <li><a href="https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Stand-up.md#week-8>Week 8</a></li>
 </ul>
 </h2>
-<!--
 <h2>Week 12</h2>
 <h3>A. Group progress</h3>
 <h4>1. Completion</h4>
@@ -109,7 +108,6 @@
     </li>
   </ol>
 <br><br>
--->
 <h2>Week 10</h2>
 <h3>A. Group progress</h3>
 <h4>1. Completion</h4>
