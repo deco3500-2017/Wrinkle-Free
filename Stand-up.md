@@ -1,7 +1,7 @@
 <h1>Stand-up</h1>
 <h2>
 <ul>
-  <!-- <li>Week 12</li> -->
+  <li><a href="https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Stand-up.md#week-12">Week 12</a></li>
   <li><a href="https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Stand-up.md#week-10">Week 10</a></li>
   <li><a href="https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Stand-up.md#week-8">Week 8</a></li>
 </ul>
@@ -15,12 +15,19 @@
     </li>
     <li>Meeting minutes
       <br>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_041017.pdf
+      <!--
       <br>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_081017.pdf
       <br>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_111017.pdf
       <br>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_151017.pdf
+      -->
     </li>
   </ol>
 <h4>2. Things to do next two weeks</h4>
+  <ol>
+    <li>XXXXX</li>
+    <li>XXXXX</li>
+    <li>XXXXX</li>
+  </ol>
 <br>
 <h3>B. Individual progress</h3>
 <h4>1. Ga Sheng</h4>
