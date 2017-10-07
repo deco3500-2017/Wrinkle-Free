@@ -216,7 +216,6 @@
     </li>
     <li>Things to do for next two weeks
       <ul>
-        <li>I will support technical issues throughout the project, if any. (~23/10)</li>
         <li>I will define requirements based on recent research about target audiences. (05/10~08/10)</li>
         <li>I will update design layout of the website with team members using requirements from additional background research. (07/10~11/10)</li>
         <li>I will create draft of a conference poster and promotional materials. (16/10~22/10)</li>
