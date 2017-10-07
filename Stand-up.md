@@ -3,7 +3,7 @@
 <ul>
   <li><a href="https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Stand-up.md#week-12">Week 12</a></li>
   <li><a href="https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Stand-up.md#week-10">Week 10</a></li>
-  <li><a href="https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Stand-up.md#week-8">Week 8</a></li>
+  <li><a href="https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Stand-up.md#week-8">Week 8</a></li>
 </ul>
 </h2>
 <h2>Week 12</h2>
@@ -85,7 +85,7 @@
   <ol>
     <li>Completion
       <ul>
-        <li>I defined requirements based on both initial and recent research. (05/10)</li>
+        <li>I defined requirements based on both initial and additional research. (05/10)</li>
         <li>I updated documents and restructed the repository in Github. (05/10~07/10)</li>
       </ul>
     </li>
