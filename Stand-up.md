@@ -1,4 +1,11 @@
 <h1>Stand-up</h1>
+<h2>
+<ul>
+  <li>Week 12</li>
+  <li>Week 10</li>
+  <li><a href="https://www.w3schools.com/html/">Visit our HTML tutorial</a></li>
+</ul>
+</h2>
 <!--
 <h2>Week 12</h2>
 <h3>A. Group progress</h3>
