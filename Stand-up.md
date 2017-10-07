@@ -193,7 +193,7 @@
   <ol>
     <li>Completion
       <ul>
-        <li>I did additional research for target audiences related to social and technology.</li>
+        <li>I did additional research for target audiences related to social and technology. (~04/10)</li>
       </ul>
     </li>
     <li>Things to do for next two weeks
@@ -211,7 +211,7 @@
     <li>Completion
       <ul>
         <li>I did the questionnaires for user testing.</li>
-        <li>I did additional research for target audiences related to web security, elderly behaviour, technology device.</li>
+        <li>I did additional research for target audiences related to web security, elderly behaviour, technology device. (~04/10)</li>
       </ul>
     </li>
     <li>Things to do for next two weeks
