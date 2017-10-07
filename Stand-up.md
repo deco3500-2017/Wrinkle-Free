@@ -11,15 +11,19 @@
 <h4>1. Completion</h4>
   <ol>
     <li>Team established additional requirements based on both initial and additional research.
-      <br>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week10_Iteration/Requirements_051017.pdf
+      <ul>
+        <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week10_Iteration/Requirements_051017.pdf</li>
+      </ul>
     </li>
     <li>Meeting minutes
-      <br>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_041017.pdf
-      <!--
-      <br>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_081017.pdf
-      <br>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_111017.pdf
-      <br>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_151017.pdf
-      -->
+      <ul>
+        <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_041017.pdf</li>
+        <!--
+        <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_081017.pdf</li>
+        <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_111017.pdf</li>
+        <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_151017.pdf</li>
+        -->
+      </ul>
     </li>
   </ol>
 <h4>2. Things to do next two weeks</h4>
@@ -121,32 +125,42 @@
   <ol>
     <li>Team updated paper prototype from feedback on week 8 stand-up.</li>
     <li>Team did additional research for target audiences related to web security, elderly behaviour, technology device.
-      <br>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week10_Iteration/Research_041017.pdf
+      <ul>
+        <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week10_Iteration/Research_041017.pdf</li>
+      </ul>
     </li>
     <li>Meeting minutes
-      <br>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_011017.pdf
+      <ul>
+        <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_011017.pdf</li>
+      </ul>
     </li>
   </ol>
 <h4>2. Things to do next two weeks</h4>
   <ol>
     <li>User testing will be conducted on 6 October.
-      <ol type="a">
-        <li>Date & Time: 6/10 11.00am ~ 4.00pm</li>
-        <li>Location: Princess Alexandra Hospital</li>
-        <li>Method: User testing using paper prototype & Questionnaires</li>
+      <ul>
+        <li>Date & Time
+          <br>11.00am ~ 4.00pm 06/10</br>
+        </li>
+        <li>Location
+          <br>Princess Alexandra Hospital</br>
+        </li>
+        <li>Method
+          <br>User testing using paper prototype & Questionnaires</br>
+        </li>
         <li>Role
           <br>Facilitator: Ga Sheng & Chenwu
           <br>Observer: Stanley & Jemin (note taking) and Adrian (video recording)
         </li>
-      </ol>
+      </ul>
     </li>
     <li>Analyse result of user testing</li>
     <li>Develop interactive prototype</li>
     <li>Do iteration tasks
-      <ol type="a">
+      <ul>
         <li>Define requirements</li>
         <li>Update design layout</li>
-      </ol>
+      </ul>
     </li>
     <li>Create draft of a conference poster and promotional materials</li>
   </ol>
