@@ -1,9 +1,9 @@
 <h1>Stand-up</h1>
 <h2>
 <ul>
-  <li>Week 12</li>
-  <li>Week 10</li>
-  <li><a href="https://www.w3schools.com/html/">Visit our HTML tutorial</a></li>
+  <!-- <li>Week 12</li> -->
+  <li><a style="color:black; text-decoration:none;" href="https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Stand-up.md#week-10">Week 10</a></li>
+  <!-- <li>Week 8</li> -->
 </ul>
 </h2>
 <!--
