@@ -262,12 +262,17 @@
     <li>Team had design the layout for our web platform and what should be include in each page.</li>
     <li>Team had make the structure of the user testing.</li>
     <li>Team had make the prototype for user testing with Balsamiq.</li>
+    <li>Team had done the documentation file and include all the staff that we had done for week8.
+      <ul>
+        <li> https://docs.google.com/document/d/1YbkAff9EBwcanwr_xXhgD8N_Yyw-Sut55DXNAYneUiY/edit</li>
+      </ul>
+    </li>
   </ol>
 <h4>2. Things to do next two weeks</h4>
   <ol>
     <li>Do some research about our project target user, to see what they need, and what we can improve.</li>
     <li>Design a new questionnaries for furthuer testing.</li>
-    <li>Design a new prototype with Proto.io</li>
+    <li>Design a new prototype with Proto.io.</li>
   </ol>
 <br>
 <h3>B. Individual progress</h3>
@@ -343,14 +348,14 @@
   <ol>
     <li>Completion
       <ul>
-        <li>I had done the documentation for the week 8 stand up</li>
-        <li>I had done some of the reasearh before our online meeting: base on the function in our product, target user, and security problem & solution</li>
-        <li>I had Give some of the ideas and suggestions for the interface design</li>
+        <li>I had done the documentation for the week 8 stand up.</li>
+        <li>I had done some of the reasearh before our online meeting: base on the function in our product, target user, and security problem & solution.</li>
+        <li>I had Give some of the ideas and suggestions for the interface design.</li>
       </ul>
     </li>
     <li>Things to do for next two weeks
       <ul>
-        <li>I will update the questionnnaires base on the feedback from professor</li>
+        <li>I will update the questionnnaires base on the feedback from professor.</li>
         <li>I will do the additional research for target audiences related to web security, elderly behaviour, technology device.</li>
       </ul>
     </li>
