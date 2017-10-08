@@ -43,7 +43,7 @@
         <li>XXXXX</li>
       </ul>
     </li>
-    <li>TThings to do for the project completion
+    <li>Things to do for the project completion
       <ul>
         <li>XXXXX</li>
         <li>XXXXX</li>
