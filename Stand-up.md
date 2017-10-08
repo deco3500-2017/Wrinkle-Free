@@ -331,16 +331,14 @@
   <ol>
     <li>Completion
       <ul>
-        <li>XXXXX</li>
-        <li>XXXXX</li>
-        <li>XXXXX</li>
+        <li>I discussed and fixed the draft of the screen layouts with team members. (06/09~12/09)</li>
+        <li>I created the protocol for low-fidelity prototype. (11/09~12/09)</li>
       </ul>
     </li>
     <li>Things to do for next two weeks
       <ul>
-        <li>XXXXX</li>
-        <li>XXXXX</li>
-        <li>XXXXX</li>
+        <li>I will do the user testing with team members. (~22/09)</li>
+        <li>I will conduct backgroud research related to social and technology. (~24/09)</li>
       </ul>
     </li>
   </ol>
