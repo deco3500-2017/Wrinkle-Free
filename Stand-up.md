@@ -259,13 +259,15 @@
         <li>https://docs.google.com/document/d/1OOcfwSgBD21zfJcugb3p3aYoepIGS-EBz1N-mOaUiXM/edit</li>
       </ul>
     </li>
-    <li>XXXXX</li>
+    <li>Team had design the layout for our web platform and what should be include in each page.</li>
+    <li>Team had make the structure of the user testing.</li>
+    <li>Team had make the prototype for user testing with Balsamiq.</li>
   </ol>
 <h4>2. Things to do next two weeks</h4>
   <ol>
-    <li>XXXXX</li>
-    <li>XXXXX</li>
-    <li>XXXXX</li>
+    <li>Do some research about our project target user, to see what they need, and what we can improve.</li>
+    <li>Design a new questionnaries for furthuer testing.</li>
+    <li>Design a new prototype with Proto.io</li>
   </ol>
 <br>
 <h3>B. Individual progress</h3>
