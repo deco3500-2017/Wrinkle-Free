@@ -141,7 +141,7 @@
     <li>User testing will be conducted on 6 October.
       <ul>
         <li>Date & Time
-          <br>11.00am ~ 4.00pm 06/10</br>
+          <br>06/10 11.00am ~ 4.00pm</br>
         </li>
         <li>Location
           <br>Princess Alexandra Hospital</br>
