@@ -26,7 +26,7 @@
       </ul>
     </li>
   </ol>
-<h4>2. Things to do next two weeks</h4>
+<h4>2. Things to do for the project completion</h4>
   <ol>
     <li>XXXXX</li>
     <li>XXXXX</li>
@@ -43,7 +43,7 @@
         <li>XXXXX</li>
       </ul>
     </li>
-    <li>Things to do for next two weeks
+    <li>TThings to do for the project completion
       <ul>
         <li>XXXXX</li>
         <li>XXXXX</li>
@@ -60,7 +60,7 @@
         <li>XXXXX</li>
       </ul>
     </li>
-    <li>Things to do for next two weeks
+    <li>Things to do for the project completion
       <ul>
         <li>XXXXX</li>
         <li>XXXXX</li>
@@ -77,7 +77,7 @@
         <li>XXXXX</li>
       </ul>
     </li>
-    <li>Things to do for next two weeks
+    <li>Things to do for the project completion
       <ul>
         <li>XXXXX</li>
         <li>XXXXX</li>
@@ -93,7 +93,7 @@
         <li>I updated documents and restructed the repository in Github. (05/10~08/10)</li>
       </ul>
     </li>
-    <li>Things to do for next two weeks
+    <li>Things to do for the project completion
       <ul>
         <li>XXXXX</li>
         <li>XXXXX</li>
@@ -110,7 +110,7 @@
         <li>XXXXX</li>
       </ul>
     </li>
-    <li>Things to do for next two weeks
+    <li>Things to do for the project completion
       <ul>
         <li>XXXXX</li>
         <li>XXXXX</li>
@@ -135,7 +135,7 @@
       </ul>
     </li>
   </ol>
-<h4>2. Things to do next two weeks</h4>
+<h4>2. Things to do for next two weeks</h4>
   <ol>
     <li>User testing will be conducted on 6 October.
       <ul>
@@ -267,7 +267,7 @@
       </ul>
     </li>
   </ol>
-<h4>2. Things to do next two weeks</h4>
+<h4>2. Things to do for next two weeks</h4>
   <ol>
     <li>Do some research about our project target user, to see what they need, and what we can improve.</li>
     <li>Design a new questionnaries for furthuer testing.</li>
