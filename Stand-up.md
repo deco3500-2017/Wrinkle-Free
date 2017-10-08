@@ -338,16 +338,15 @@
   <ol>
     <li>Completion
       <ul>
-        <li>XXXXX</li>
-        <li>XXXXX</li>
-        <li>XXXXX</li>
+        <li>I had done the documentation for the week 8 stand up</li>
+        <li>I had done some of the reasearh before our online meeting: base on the function in our product, target user, and security problem & solution</li>
+        <li>I had Give some of the ideas and suggestions for the interface design</li>
       </ul>
     </li>
     <li>Things to do for next two weeks
       <ul>
-        <li>XXXXX</li>
-        <li>XXXXX</li>
-        <li>XXXXX</li>
+        <li>I will update the questionnnaires base on the feedback from professor</li>
+        <li>I will do the additional research for target audiences related to web security, elderly behaviour, technology device.</li>
       </ul>
     </li>
   </ol>
