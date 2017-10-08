@@ -237,7 +237,7 @@
   <ol>
     <li>Completion
       <ul>
-        <li>I did the questionnaires for user testing.</li>
+        <li>I did the questionnaires for user testing. (~05/10)</li>
         <li>I did additional research for target audiences related to web security, elderly behaviour, technology device. (~04/10)</li>
       </ul>
     </li>
