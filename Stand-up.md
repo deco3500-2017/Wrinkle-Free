@@ -256,7 +256,7 @@
   <ol>
   <li>Team did some research for target user research, security problem during online, and product layout.
       <ul>
-        <li>>https://docs.google.com/document/d/1OOcfwSgBD21zfJcugb3p3aYoepIGS-EBz1N-mOaUiXM/edit</li>
+        <li>https://docs.google.com/document/d/1OOcfwSgBD21zfJcugb3p3aYoepIGS-EBz1N-mOaUiXM/edit</li>
       </ul>
     </li>
     <li>XXXXX</li>
