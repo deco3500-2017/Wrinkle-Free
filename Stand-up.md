@@ -190,9 +190,9 @@
         <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/WK10_Development.pdf</li>
         <li>I designed the success criterial for our concept.</li>
         <li>I found some code and exampe of chartroom.</li>
-        <li>I did more research depend on the problems of feedback from week 8: 
-        1.How age group actually engage with others through technology.
-        2.Query why they don't engage with social media.</li>
+        <li>I did more research depend on the problems of feedback from week 8: </li>
+        <li>1.How age group actually engage with others through technology.</li>
+        <li>2.Query why they don't engage with social media.</li>
       </ul>
     </li>
     <li>Things to do for next two weeks
