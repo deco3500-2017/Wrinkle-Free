@@ -296,16 +296,17 @@
   <ol>
     <li>Completion
       <ul>
-        <li>XXXXX</li>
-        <li>XXXXX</li>
-        <li>XXXXX</li>
+        <li>I designed the success criterial for our concept.</li>
+        <li>I found some code and exampe of chartroom.</li>
+        <li>I did more research depend on the problems of feedback from week 8: 
+        1.How age group actually engage with others through technology.
+        2.Query why they don't engage with social media.</li>
       </ul>
     </li>
     <li>Things to do for next two weeks
       <ul>
-        <li>XXXXX</li>
-        <li>XXXXX</li>
-        <li>XXXXX</li>
+        <li>I will do the user testing with team members.</li>
+        <li>I will familiar with code tools called Wordpress in order to implement our main functions</li>
       </ul>
     </li>
   </ol>
