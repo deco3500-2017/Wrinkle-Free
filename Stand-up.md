@@ -191,15 +191,15 @@
         <li>I designed the success criterial for our concept.</li>
         <li>I found some code and exampe of chartroom.</li>
         <li>I did more research depend on the problems of feedback from week 8: </li>
-        <li>1.How age group actually engage with others through technology.</li>
-        <li>2.Query why they don't engage with social media.</li>
+        1. How age group actually engage with others through technology.</li>
+        2. Query why they don't engage with social media.</li>
       </ul>
     </li>
     <li>Things to do for next two weeks
       <ul>
         <li>I will response for the development of our concept.</li>
         <li>I will familiar with code tools called Wordpress in order to implement our main functions.</li>
-        <li>I will provide document abour process of development.<li>
+        <li>I will provide document abour process of development.</li>
       </ul>
     </li>
   </ol>
