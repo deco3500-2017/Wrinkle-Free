@@ -38,9 +38,10 @@ Elderly people who are socially isolated and wants to share their experience wis
 <li>Virginia Moore is 81 years old and her hobbies are shopping, travelling, reading and listening to stories. In daily life, Virginia likes to stay active and engaged with her surroundings. Virginia enjoys chatting with her friends and having random talks with other people. She always helps new residents get familiar with their surroundings. She has more troubles remembering than before, but she still keeps studying. She is proud of her education and her positive attitude of studying.</li>
 <li>Jasmine is 77 years old (born in 1940) and lives in Townsville. She has two daughters and three grandchildren. Her husband died 6 months ago because of skin cancer. She’s felt depressed after the death so one of her daughter lives with her now. She’s hurt knee joints and always carried a cane since 2007. She’s participated in a local volunteering club for teaching English to migrants since 2002.Uses a mobile only for calling and texting. Spends time for watching quiz shows at home. Exercises twice a week in the swimming pool.</li>
 </ol>
-[Other Persona1.](https://github.com/deco3500-2017/Wrinkle-Free/blob/master/persona1.jpg)<br>
-[Persona2](https://github.com/deco3500-2017/Wrinkle-Free/blob/master/persona2.jpg)
-
+<div id="persona">
+  <img src="https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week06/Persona_280817_Virginia%20Moore.jpg" alt="Virginia Moore" align="middle">
+  <img src="https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week06/Persona_280817_Charles%20Smith.jpg" alt="Charles Smith" align="middle">
+</div>
 <h2>3. Team</h2>
   <body>
     <table>
@@ -50,6 +51,13 @@ Elderly people who are socially isolated and wants to share their experience wis
         <th align="center">Course Code</th>
         <th align="center">Skills</th>
         <th align="center">Roles and responsibilities</th>
+      </tr>
+      <tr>  
+        <td align="center">Yau Ga Sheng</td>
+        <td align="center">44462938</td>
+        <td align="center">DECO7350</td>
+        <td>HTML, CSS, Java, Python, SQL Database<br>Adobe Photoshop</td>
+        <td>Front-end<br>Back-end</td>
       </tr>
       <tr>
         <td align="center">Chenwu Han</td>
@@ -66,25 +74,18 @@ Elderly people who are socially isolated and wants to share their experience wis
         <td>UX Designer</td>
       </tr>
       <tr>
-        <td align="center">Kin San Poon</td>
-        <td align="center">43848928</td>
-        <td align="center">DECO3500</td>
-        <td>HTML, CSS, Java, PHP, Python, Database<br>Adobe Illustrator</td>
-        <td>Front-end<br>Back-end</td>
-      </tr>
-      <tr>  
-        <td align="center">Yau Ga Sheng</td>
-        <td align="center">44462938</td>
-        <td align="center">DECO7350</td>
-        <td>HTML, CSS, Java, Python, SQL Database<br>Adobe Photoshop</td>
-        <td>Front-end<br>Back-end</td>
-      </tr>
-      <tr>
         <td align="center">Jemin Yoo</td>
         <td align="center">44260497</td>
         <td align="center">DECO7350</td>
         <td>HTML, CSS, C#, Java, Oracle DB, MySQL<br>Adobe Illustrator</td>
         <td>Front-end<br>UI Designer</td>
+      </tr>
+      <tr>
+        <td align="center">Kin San Poon</td>
+        <td align="center">43848928</td>
+        <td align="center">DECO3500</td>
+        <td>HTML, CSS, Java, PHP, Python, Database<br>Adobe Illustrator</td>
+        <td>Front-end<br>Back-end</td>
       </tr>
     </table>
   </body>
