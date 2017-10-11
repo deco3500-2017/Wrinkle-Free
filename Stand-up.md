@@ -188,13 +188,18 @@
     <li>Completion
       <ul>
         <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/WK10_Development.pdf</li>
+        <li>I designed the success criterial for our concept.</li>
+        <li>I found some code and exampe of chartroom.</li>
+        <li>I did more research depend on the problems of feedback from week 8: 
+        1.How age group actually engage with others through technology.
+        2.Query why they don't engage with social media.</li>
       </ul>
     </li>
     <li>Things to do for next two weeks
       <ul>
-        <li>XXXXX</li>
-        <li>XXXXX</li>
-        <li>XXXXX</li>
+        <li>I will response for the development of our concept.</li>
+        <li>I will familiar with code tools called Wordpress in order to implement our main functions.</li>
+        <li>I will provide document abour process of development.<li>
       </ul>
     </li>
   </ol>
@@ -296,17 +301,15 @@
   <ol>
     <li>Completion
       <ul>
-        <li>I designed the success criterial for our concept.</li>
-        <li>I found some code and exampe of chartroom.</li>
-        <li>I did more research depend on the problems of feedback from week 8: 
-        1.How age group actually engage with others through technology.
-        2.Query why they don't engage with social media.</li>
+        <li>I designed test protocal for our paper prototype in proposal report.</li>
+        <li>I did some background research for defining users' requirements.</li>
+        <li>I discussed and fixed the layout of paper prototype with team members</li>
       </ul>
     </li>
     <li>Things to do for next two weeks
       <ul>
         <li>I will do the user testing with team members.</li>
-        <li>I will familiar with code tools called Wordpress in order to implement our main functions</li>
+        <li>I will do more research about our concept and users' requirements</li>
       </ul>
     </li>
   </ol>
