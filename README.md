@@ -39,8 +39,8 @@ Elderly people who are socially isolated and wants to share their experience wis
 <li>Jasmine is 77 years old (born in 1940) and lives in Townsville. She has two daughters and three grandchildren. Her husband died 6 months ago because of skin cancer. She’s felt depressed after the death so one of her daughter lives with her now. She’s hurt knee joints and always carried a cane since 2007. She’s participated in a local volunteering club for teaching English to migrants since 2002.Uses a mobile only for calling and texting. Spends time for watching quiz shows at home. Exercises twice a week in the swimming pool.</li>
 </ol>
 <div id="persona">
-  <img src="https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week06/Persona_280817_Virginia%20Moore.jpg" alt="Virginia Moore" align="middle">
-  <img src="https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week06/Persona_280817_Charles%20Smith.jpg" alt="Charles Smith" align="middle">
+  <img src="https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week06/Persona_280817_Virginia%20Moore.jpg" alt="Virginia Moore" height="100%" width="100%">
+  <img src="https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week06/Persona_280817_Charles%20Smith.jpg" alt="Charles Smith" height="100%" width="100%">
 </div>
 <h2>3. Team</h2>
   <body>
