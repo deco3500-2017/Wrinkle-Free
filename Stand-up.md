@@ -20,8 +20,9 @@
         <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_041017.pdf</li>
         <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_081017.pdf</li>
         <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_111017.pdf</li>
-        <!--
         <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_151017.pdf</li>
+        <!--
+        <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_181017.pdf</li>
         -->
       </ul>
     </li>
@@ -95,8 +96,8 @@
     </li>
     <li>Things to do for the project completion
       <ul>
-        <li>XXXXX</li>
-        <li>XXXXX</li>
+        <li>I will double-check the progress of the project and compensate the defect throughout the project. (~23/10)</li>
+        <li>I will support technical issues throughout the project, if any. (~23/10)</li>
         <li>XXXXX</li>
       </ul>
     </li>
@@ -189,10 +190,13 @@
       <ul>
         <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/WK10_Development.pdf</li>
         <li>I designed the success criterial for our concept.</li>
-        <li>I found some code and exampe of chartroom.</li>
-        <li>I did more research depend on the problems of feedback from week 8: </li>
-        1. How age group actually engage with others through technology.</li>
-        2. Query why they don't engage with social media.</li>
+        <li>I found some code and exampe of chartroom.</li>
+        <li>I did more research depend on the problems of feedback from week 8.
+          <ol>
+            <li>How age group actually engage with others through technology.</li>
+            <li>Query why they don't engage with social media.</li>
+          </ol>
+        </li>
       </ul>
     </li>
     <li>Things to do for next two weeks
@@ -302,14 +306,14 @@
     <li>Completion
       <ul>
         <li>I designed test protocal for our paper prototype in proposal report.</li>
-        <li>I did some background research for defining users' requirements.</li>
-        <li>I discussed and fixed the layout of paper prototype with team members</li>
+        <li>I did some background research for defining users' requirements.</li>
+        <li>I discussed and fixed the layout of paper prototype with team members.</li>
       </ul>
     </li>
     <li>Things to do for next two weeks
       <ul>
         <li>I will do the user testing with team members.</li>
-        <li>I will do more research about our concept and users' requirements</li>
+        <li>I will do more research about our concept and user requirements.</li>
       </ul>
     </li>
   </ol>
