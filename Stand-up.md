@@ -330,16 +330,15 @@
   <ol>
     <li>Completion
       <ul>
-        <li>XXXXX</li>
-        <li>XXXXX</li>
-        <li>XXXXX</li>
+        <li>I designed the draft layout for our web platform and what should be included in each page.</li>
+        <li>I listed out the content of website sush as homepage, photos, videos, comment section that will be added into our website.</li>
+        <li>I’ve added some additional website functionality for elderly such as text to speech and social chatroom. </li>
       </ul>
     </li>
     <li>Things to do for next two weeks
       <ul>
-        <li>XXXXX</li>
-        <li>XXXXX</li>
-        <li>XXXXX</li>
+        <li>I will start designing our low fidelity website layout using Balsamiq</li>
+        <li>I will do more research for our website functionality and layout design during the design process.</li>
       </ul>
     </li>
   </ol>
