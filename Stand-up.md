@@ -21,12 +21,11 @@
         -->
       </ul>
     </li>
-    <li>Team established additional requirements based on both initial and additional research.
+    <li>Team established additional requirements based on both initial and additional research and reflected them to the prototype.
       <ul>
         <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week10/Iteration/Requirements_051017.pdf</li>
       </ul>
     </li>
-    <li>Team defined requirements based on both initial and additional research.</li>
     <li>Team conducted internal review of the prototype.</li>
     <li>Team began to prepare the showcase.
       <ul>
