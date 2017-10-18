@@ -110,16 +110,16 @@
           </ul>
           </li>
         <li>I created drafts of conference poster. (15/10~17/10)
+          <!--
           <div>
             <img src="https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week12/Conference%20Poster_Draft_%231.png" alt="Conference Poster_Draft_#1" height="100%" width="100%">
             <img src="https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week12/Conference%20Poster_Draft_%232.png" alt="Conference Poster_Draft_#2" height="100%" width="100%">
           </div>
-          <!--
+          -->
           <ul>
             <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week12/Conference%20Poster_Draft_%231.png</li>
             <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week12/Conference%20Poster_Draft_%232.png</li>
           </ul>
-          -->
         </li>
       </ul>
     </li>
