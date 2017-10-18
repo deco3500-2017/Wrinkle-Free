@@ -52,16 +52,16 @@
   <ol>
     <li>Completion
       <ul>
-        <li>XXXXX</li>
-        <li>XXXXX</li>
-        <li>XXXXX</li>
+        <li>I've successfully built our final website prototype with working functionality such as navigation menu, buttons, publish post, comment, login and register.</li>
+        <li>I connected our website to a domain hosted by Wix, while refining and adjusting the content layout of the website. </li>
+        <li>I also added the contact us section in the user profile that actually works when user filled in the form and click submit.</li>
       </ul>
     </li>
     <li>Things to do for the project completion
       <ul>
-        <li>XXXXX</li>
-        <li>XXXXX</li>
-        <li>XXXXX</li>
+        <li>I will be iterating our final website prototype and refining on design layout such as theme color contrast, font design and size, button position and size.</li>
+        <li>I will build a landing page for our prototype which explain about our entire prototype like what it is, how it works and why we did it.</li>
+        <li>I will also include our team design process into the landing page.</li>
       </ul>
     </li>
   </ol>
@@ -217,16 +217,14 @@
   <ol>
     <li>Completion
       <ul>
-        <li>XXXXX</li>
-        <li>XXXXX</li>
-        <li>XXXXX</li>
+        <li>I’ve created a paper prototype using Balsamiq with every webpage layout design.</li>
+        <li>I also created a high-fidelity prototype design of our website using Proto io mockup with some simple functionality.</li>
       </ul>
     </li>
     <li>Things to do for next two weeks
       <ul>
-        <li>XXXXX</li>
-        <li>XXXXX</li>
-        <li>XXXXX</li>
+        <li>I will start our development process and focusing on building our final website prototype.</li>
+        <li>I will start implementing our website’s main functionality into the website before designing the website layout.</li>
       </ul>
     </li>
   </ol>
