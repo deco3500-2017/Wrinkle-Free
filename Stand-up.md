@@ -257,19 +257,19 @@
   <ol>
     <li>Completion
       <ul>
-        <li>XXXXX</li>
-        <li>XXXXX</li>
-        <li>XXXXX</li>
+        <li>I figured out to use Wordpress or Wix to achieve interaction for our chatroom.</li>
+        <li>I did some research about how to make our website more functional instead of "Click-through" according to the feedback from week 8.</li>
       </ul>
     </li>
     <li>Things to do for next two weeks
       <ul>
-        <li>XXXXX</li>
-        <li>XXXXX</li>
-        <li>XXXXX</li>
+        <li>I will do the website by Wix with my team members.</li>
+        <li>I will do some research about people's blogpost then put those blogpost into our website in order to make our website more interactive.</li>
+        <li>I will find some pictures about different hobbies in order to enrich our website content.</li>
       </ul>
     </li>
   </ol>
+
 <h4>4. Jemin</h4>
   <ol>
     <li>Completion
@@ -362,19 +362,20 @@
   <ol>
     <li>Completion
       <ul>
-        <li>XXXXX</li>
-        <li>XXXXX</li>
-        <li>XXXXX</li>
+        <li>I did some background research for our "chatroom" interface.</li>
+        <li>I discussed and fixed the layout of paper prototype with team members.</li>
+        <li>I discussed the user interface for our website with my team members.</li>
       </ul>
     </li>
     <li>Things to do for next two weeks
       <ul>
-        <li>XXXXX</li>
-        <li>XXXXX</li>
-        <li>XXXXX</li>
+        <li>I will do the user testing with team members.</li>
+        <li>I will do some additional research for target audiences.</li>
+        <li>I will try to achieve more functionalities for our website in order to make more interactions with users instead of "click-through".</li>
       </ul>
     </li>
   </ol>
+
 <h4>4. Jemin</h4>
   <ol>
     <li>Completion
