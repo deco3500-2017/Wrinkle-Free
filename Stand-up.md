@@ -106,15 +106,16 @@
   <ol>
     <li>Completion
       <ul>
-        <li>XXXXX</li>
-        <li>XXXXX</li>
-        <li>XXXXX</li>
+        <li>I updated the documentation for week 8 and week 10 stand up.</li>
+        <li>I had done the templete for Conference poster that we need for our week 13 showcase.</li>
+        <li>I defined requirements base on our research and find out how our product design can cover all the part.</li>
+        <li>I had do some research and discussion with our teammate to confirm our project name.</li>
       </ul>
     </li>
     <li>Things to do for the project completion
       <ul>
-        <li>XXXXX</li>
-        <li>XXXXX</li>
+        <li>I will discuss with professor and my teammate to make sure how our final poster look like.</li>
+        <li>I will help the other group if they need any help.</li>
         <li>XXXXX</li>
       </ul>
     </li>
