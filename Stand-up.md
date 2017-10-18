@@ -10,11 +10,6 @@
 <h3>A. Group progress</h3>
 <h4>1. Completion</h4>
   <ol>
-    <li>Team established additional requirements based on both initial and additional research.
-      <ul>
-        <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week10/Iteration/Requirements_051017.pdf</li>
-      </ul>
-    </li>
     <li>Meeting minutes
       <ul>
         <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_041017.pdf</li>
@@ -26,6 +21,12 @@
         -->
       </ul>
     </li>
+    <li>Team established additional requirements based on both initial and additional research.
+      <ul>
+        <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week10/Iteration/Requirements_051017.pdf</li>
+      </ul>
+    </li>
+    <li>XXXXX</li>
   </ol>
 <h4>2. Things to do for the project completion</h4>
   <ol>
@@ -154,15 +155,15 @@
 <h3>A. Group progress</h3>
 <h4>1. Completion</h4>
   <ol>
+    <li>Meeting minutes
+      <ul>
+        <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_011017.pdf</li>
+      </ul>
+    </li>
     <li>Team updated paper prototype from feedback on week 8 stand-up.</li>
     <li>Team did additional research for target audiences related to web security, elderly behaviour, technology device.
       <ul>
         <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week10/Iteration/Research_041017.pdf</li>
-      </ul>
-    </li>
-    <li>Meeting minutes
-      <ul>
-        <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_011017.pdf</li>
       </ul>
     </li>
   </ol>
