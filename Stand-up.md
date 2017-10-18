@@ -100,6 +100,7 @@
             <img src="https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week11/Conference%20Poster/Conference%20Poster_Layout_%232.png" alt="Conference Poster_Layout_#2">
             <img src="https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week11/Conference%20Poster/Conference%20Poster_Layout_%233.png" alt="Conference Poster_Layout_#3">
             <img src="https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week11/Conference%20Poster/Conference%20Poster_Layout_%234.png" alt="Conference Poster_Layout_#4">
+            <img src="https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week11/Conference%20Poster/Conference%20Poster_Layout_%235.png" alt="Conference Poster_Layout_#5">
           </div>
           -->
           <ul>
@@ -107,6 +108,7 @@
             <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week11/Conference%20Poster/Conference%20Poster_Layout_%232.png</li>
             <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week11/Conference%20Poster/Conference%20Poster_Layout_%233.png</li>
             <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week11/Conference%20Poster/Conference%20Poster_Layout_%234.png</li>
+            <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week11/Conference%20Poster/Conference%20Poster_Layout_%235.png</li>
           </ul>
           </li>
         <li>I created drafts of conference poster. (15/10~17/10)
