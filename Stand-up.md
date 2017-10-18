@@ -190,7 +190,7 @@
   <ol>
     <li>Completion
       <ul>
-        <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/WK10_Development.pdf</li>
+        <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week10/Development_WK10.pdf</li>
         <li>I designed the success criterial for our concept.</li>
         <li>I found some code and exampe of chartroom.</li>
         <li>I did more research depend on the problems of feedback from week 8.
