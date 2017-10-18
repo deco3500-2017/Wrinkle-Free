@@ -149,8 +149,11 @@
     <li>Completion
       <ul>
         <li>I updated the documentation for week 8 and week 10 stand up.(~5/10)</li>
-        <li>I had done the templete for Conference poster that we need for our week 13 showcase.(~17/10)</li>
-          <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week12/poster.png</li>
+        <li>I had done the templete for Conference poster that we need for our week 13 showcase.(~17/10)
+          <ul>
+            <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week12/poster.png</li>
+          </ul>
+        </li>
         <li>I defined requirements base on our research and find out how our product design can cover all the part.(~6/10)</li>
         <li>I had do some research and discussion with our teammate to confirm our project name.(~15/10)</li>
       </ul>
