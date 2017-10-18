@@ -74,13 +74,13 @@
         <li>I provided document abour process of development until week 12.</li>
       </ul>
     </li>
-    <li>Things to do for the project completion
+    <li>Things to do for the project completion:
       <ul>
         <li>I will help development team to complete/improve the main function of our website.</li>
         <li>I will provide some document to support process of development. </li>
         <li>I will help our team to creat kick start video for trade show, if any.</li>
         <li>I will help our team to finish the final report,if any.</li>
-        <li>I will help our team to finish promotional materials for showcase.<li>
+        <li>I will help our team to finish promotional materials for showcase.</li>
       </ul>
     </li>
   </ol>
