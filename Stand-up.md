@@ -88,16 +88,16 @@
   <ol>
     <li>Completion
       <ul>
-        <li>XXXXX</li>
-        <li>XXXXX</li>
-        <li>XXXXX</li>
+        <li>I did chatroom function with my team members.</li>
+        <li>I did some content research about the content.</li>
+        <li>I found some blogposts of different hobbies and wrote some description for our website.</li>
       </ul>
     </li>
     <li>Things to do for the project completion
       <ul>
-        <li>XXXXX</li>
-        <li>XXXXX</li>
-        <li>XXXXX</li>
+        <li>I will fix the voice recording function.</li>
+        <li>I will do some user testing to imporve our website.</li>
+        <li>I will support the technical issues throughout the project, if any.</li>
       </ul>
     </li>
   </ol>
