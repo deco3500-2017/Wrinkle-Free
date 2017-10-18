@@ -266,17 +266,13 @@
   <ol>
   <li>Team did some research for target user research, security problem during online, and product layout.
       <ul>
-        <li>https://docs.google.com/document/d/1OOcfwSgBD21zfJcugb3p3aYoepIGS-EBz1N-mOaUiXM/edit</li>
+        <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week08/Progress%20Document_110917.pdf</li>
       </ul>
     </li>
     <li>Team had design the layout for our web platform and what should be include in each page.</li>
     <li>Team had make the structure of the user testing.</li>
     <li>Team had make the prototype for user testing with Balsamiq.</li>
-    <li>Team had done the documentation file and include all the staff that we had done for week8.
-      <ul>
-        <li> https://docs.google.com/document/d/1YbkAff9EBwcanwr_xXhgD8N_Yyw-Sut55DXNAYneUiY/edit</li>
-      </ul>
-    </li>
+    <li>Team had done the documentation file and include all the staff that we had done for week8.</li>
   </ol>
 <h4>2. Things to do for next two weeks</h4>
   <ol>
@@ -341,7 +337,11 @@
     <li>Completion
       <ul>
         <li>I discussed and fixed the draft of the screen layouts with team members. (06/09~12/09)</li>
-        <li>I created the protocol for low-fidelity prototype. (11/09~12/09)</li>
+        <li>I created the protocol for low-fidelity prototype. (11/09~12/09)
+          <ul>
+            <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week08/Protocol%20for%20low-fidelity%20prototype_120917.pdf</li>
+          </ul>
+        </li>
       </ul>
     </li>
     <li>Things to do for next two weeks
