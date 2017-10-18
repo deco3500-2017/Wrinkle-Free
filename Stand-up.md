@@ -69,8 +69,8 @@
   <ol>
     <li>Completion
       <ul>
-        <li>I am response for the layour/navigaton/interaction flow of our website.</li>
-        <li>I searched materials/photos/descriptions about hobbies and interests in order to creat/improve function of photos/homepage</li>
+        <li>I am response for the layout/navigation/interaction flow of our website.</li>
+        <li>I searched materials/photos/descriptions about hobbies and interests in order to create/improve function of photos/homepage</li>
         <li>I provided document abour process of development until week 12.</li>
       </ul>
     </li>
