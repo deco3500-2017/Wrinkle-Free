@@ -12,7 +12,7 @@
   <ol>
     <li>Team established additional requirements based on both initial and additional research.
       <ul>
-        <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week10_Iteration/Requirements_051017.pdf</li>
+        <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week10/Iteration/Requirements_051017.pdf</li>
       </ul>
     </li>
     <li>Meeting minutes
@@ -91,14 +91,16 @@
     <li>Completion
       <ul>
         <li>I defined requirements based on both initial and additional research. (05/10)</li>
-        <li>I updated documents and restructed the repository in Github. (05/10~08/10)</li>
+        <li>I updated documents and restructed the repository in Github. (05/10~17/10)</li>
+        <li>I conducted review of the prototype with team members. (08/10~15/10)</li>
+        <li>I created drafts of conference poster. (15/10~17/10)</li>
       </ul>
     </li>
     <li>Things to do for the project completion
       <ul>
         <li>I will double-check the progress of the project and compensate the defect throughout the project. (~23/10)</li>
         <li>I will support technical issues throughout the project, if any. (~23/10)</li>
-        <li>XXXXX</li>
+        <li>I will finalise the conference poster and promotional materials for showcase. (~22/10)</li>
       </ul>
     </li>
   </ol>
@@ -116,7 +118,6 @@
       <ul>
         <li>I will discuss with professor and my teammate to make sure how our final poster look like.</li>
         <li>I will help the other group if they need any help.</li>
-        <li>XXXXX</li>
       </ul>
     </li>
   </ol>
@@ -128,7 +129,7 @@
     <li>Team updated paper prototype from feedback on week 8 stand-up.</li>
     <li>Team did additional research for target audiences related to web security, elderly behaviour, technology device.
       <ul>
-        <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week10_Iteration/Research_041017.pdf</li>
+        <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week10/Iteration/Research_041017.pdf</li>
       </ul>
     </li>
     <li>Meeting minutes
