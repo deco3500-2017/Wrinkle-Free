@@ -10,6 +10,11 @@
 <h3>A. Group progress</h3>
 <h4>1. Completion</h4>
   <ol>
+    <li>Team established additional requirements based on both initial and additional research.
+      <ul>
+        <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week10/Iteration/Requirements_051017.pdf</li>
+      </ul>
+    </li>
     <li>Meeting minutes
       <ul>
         <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_041017.pdf</li>
@@ -21,12 +26,6 @@
         -->
       </ul>
     </li>
-    <li>Team established additional requirements based on both initial and additional research.
-      <ul>
-        <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week10/Iteration/Requirements_051017.pdf</li>
-      </ul>
-    </li>
-    <li>XXXXX</li>
   </ol>
 <h4>2. Things to do for the project completion</h4>
   <ol>
@@ -136,16 +135,16 @@
   <ol>
     <li>Completion
       <ul>
-        <li>I updated the documentation for week 8 and week 10 stand up.</li>
-        <li>I had done the templete for Conference poster that we need for our week 13 showcase.</li>
+        <li>I updated the documentation for week 8 and week 10 stand up.(~5/10)</li>
+        <li>I had done the templete for Conference poster that we need for our week 13 showcase.(~17/10)</li>
           <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week12/poster.png</li>
-        <li>I defined requirements base on our research and find out how our product design can cover all the part.</li>
-        <li>I had do some research and discussion with our teammate to confirm our project name.</li>
+        <li>I defined requirements base on our research and find out how our product design can cover all the part.(~6/10)</li>
+        <li>I had do some research and discussion with our teammate to confirm our project name.(~15/10)</li>
       </ul>
     </li>
     <li>Things to do for the project completion
       <ul>
-        <li>I will discuss with professor and my teammate to make sure how our final poster look like.</li>
+        <li>I will discuss with professor and my teammate to make sure how our final poster look like.(~18/10)</li>
         <li>I will help the other group if they need any help.</li>
       </ul>
     </li>
@@ -155,15 +154,15 @@
 <h3>A. Group progress</h3>
 <h4>1. Completion</h4>
   <ol>
-    <li>Meeting minutes
-      <ul>
-        <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_011017.pdf</li>
-      </ul>
-    </li>
     <li>Team updated paper prototype from feedback on week 8 stand-up.</li>
     <li>Team did additional research for target audiences related to web security, elderly behaviour, technology device.
       <ul>
         <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week10/Iteration/Research_041017.pdf</li>
+      </ul>
+    </li>
+    <li>Meeting minutes
+      <ul>
+        <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_011017.pdf</li>
       </ul>
     </li>
   </ol>
@@ -384,15 +383,15 @@
   <ol>
     <li>Completion
       <ul>
-        <li>I had done the documentation for the week 8 stand up.</li>
-        <li>I had done some of the reasearh before our online meeting: base on the function in our product, target user, and security problem & solution.</li>
-        <li>I had Give some of the ideas and suggestions for the interface design.</li>
+        <li>I had done the documentation for the week 8 stand up.(~11/09)</li>
+        <li>I had done some of the reasearh before our online meeting: base on the function in our product, target user, and security problem & solution.(~11/09)</li>
+        <li>I had Give some of the ideas and suggestions for the interface design.(~13/09)</li>
       </ul>
     </li>
     <li>Things to do for next two weeks
       <ul>
-        <li>I will update the questionnnaires base on the feedback from professor.</li>
-        <li>I will do the additional research for target audiences related to web security, elderly behaviour, technology device.</li>
+        <li>I will update the questionnnaires base on the feedback from professor.(~13/09)</li>
+        <li>I will do the additional research for target audiences related to web security, elderly behaviour, technology device.(~13/09)</li>
       </ul>
     </li>
   </ol>
