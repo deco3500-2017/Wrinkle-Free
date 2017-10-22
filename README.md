@@ -239,7 +239,7 @@ Normally our group will meeting online out of the class time by using some of th
   </tr>
   <tr>
     <td>Design</td>
-    <td>Stand-ups</td>
+    <td>Week 8 Stand-up</td>
     <td>Low-Fidelity Prototype</td>
     <td align="center">ALL</td>
     <td align="center">10 Sep 17</td>
@@ -279,7 +279,7 @@ Normally our group will meeting online out of the class time by using some of th
   </tr>
   <tr>
     <td>Development</td>
-    <td>Stand-ups</td>
+    <td>Week 10 Stand-ups</td>
     <td>Unit Test Report</td>
     <td align="center">Weiguang<br>Kin San</td>
     <td align="center">02 Oct 17</td>
@@ -295,7 +295,7 @@ Normally our group will meeting online out of the class time by using some of th
   </tr>
   <tr>
     <td>Test</td>
-    <td>Stand-ups</td>
+    <td>Week 12 Stand-ups</td>
     <td>Interactive Prototype</td>
     <td align="center">ALL</td>
     <td align="center">12 Oct 17</td>
@@ -306,15 +306,7 @@ Normally our group will meeting online out of the class time by using some of th
     <td>Showcase</td>
     <td>Conference Poster</td>
     <td align="center">Jemin<br>Chenwu<br>Weiguang</td>
-    <td align="center">22 Oct 17</td>
-    <td align="center">24 Oct 17</td>
-  </tr>
-  <tr>
-    <td>Finalisation</td>
-    <td>Stand-ups</td>
-    <td>Final Prototype</td>
-    <td align="center">ALL</td>
-    <td align="center">21 Oct 17</td>
+    <td align="center">25 Oct 17</td>
     <td align="center">25 Oct 17</td>
   </tr>
 </table>
