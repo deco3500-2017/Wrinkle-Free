@@ -79,35 +79,35 @@ Elderly people who are socially isolated and wants to share their experience wis
         <td align="center">44462938</td>
         <td align="center">DECO7350</td>
         <td>HTML, CSS, Java, Python, SQL Database<br>Adobe Photoshop</td>
-        <td>Front-end<br>Back-end</td>
+        <td>Front-end<br>Back-end<br>Development team</td>
       </tr>
       <tr>
         <td align="center">Chenwu Han</td>
         <td align="center">44174633</td>
         <td align="center">DECO7350</td>
         <td>HTML, CSS, Python<br>Adobe Softwares</td>
-        <td>UX Designer</td>
+        <td>UX Designer<br>Development team</td>
       </tr>
       <tr>
         <td align="center">Weiguang Hou</td>
         <td align="center">43442522</td>
         <td align="center">DECO3500</td>
         <td>HTML, CSS, Python<br>Adobe Photoshop, Adobe Illustrator</td>
-        <td>UX Designer</td>
+        <td>UX Designer<br>Development team</td>
       </tr>
       <tr>
         <td align="center">Jemin Yoo</td>
         <td align="center">44260497</td>
         <td align="center">DECO7350</td>
         <td>HTML, CSS, C#, Java, Oracle DB, MySQL<br>Adobe Illustrator</td>
-        <td>Front-end<br>UI Designer</td>
+        <td>Front-end<br>UI Designer<br>Documentation team</td>
       </tr>
       <tr>
         <td align="center">Kin San Poon</td>
         <td align="center">43848928</td>
         <td align="center">DECO3500</td>
         <td>HTML, CSS, Java, PHP, Python, Database<br>Adobe Illustrator</td>
-        <td>Front-end<br>Back-end</td>
+        <td>Front-end<br>Back-end<br>Documentation team</td>
       </tr>
     </table>
   </body>
