@@ -276,6 +276,22 @@ Normally our group will meeting online out of the class time by using some of th
     <td align="center">23 Sep 17</td>
   </tr>
   <tr>
+    <td>Research</td>
+    <td>Questionnaire</td>
+    <td>User feedback</td>
+    <td align="center">Adrian</td>
+    <td align="center">02 Oct 17</td>
+    <td align="center">03 Oct 17</td>
+  </tr>
+  <tr>
+    <td>Research</td>
+    <td>Addtional research on topic</td>
+    <td>N/A</td>
+    <td align="center">Jemin<br>Adrian<br>Chenwu</td>
+    <td align="center">02 Oct 17</td>
+    <td align="center">03 Oct 17</td>
+  </tr>
+  <tr>
     <td>Development</td>
     <td>Week 10 Stand-ups</td>
     <td>Paper Prototype & Additional research</td>
