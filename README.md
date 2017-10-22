@@ -292,6 +292,22 @@ Normally our group will meeting online out of the class time by using some of th
     <td align="center">04 Oct 17</td>
   </tr>
   <tr>
+    <td>Research</td>
+    <td>Requirement</td>
+    <td>N/A</td>
+    <td align="center">Jemin<br>Adrian</td>
+    <td align="center">05 Oct 17</td>
+    <td align="center">06 Oct 17</td>
+  </tr>
+  <tr>
+    <td>Development</td>
+    <td>Conference Poster</td>
+    <td>N/A</td>
+    <td align="center">Jemin<br>Adrian</td>
+    <td align="center">15 Oct 17</td>
+    <td align="center">18 Oct 17</td>
+  </tr>
+  <tr>
     <td>Test</td>
     <td>Week 12 Stand-ups</td>
     <td>Interactive Prototype & Poster for feedback</td>
