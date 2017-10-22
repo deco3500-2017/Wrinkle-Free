@@ -321,7 +321,7 @@
   <ol>
     <li>Do some research about our project target user, to see what they need, and what we can improve.</li>
     <li>Design a new questionnaries for furthuer testing.</li>
-    <li>Design a new prototype with Proto.io.</li>
+    <li>Design a new prototype with Balsamiq or Proto.io.</li>
   </ol>
 <br>
 <h3>B. Individual progress</h3>
