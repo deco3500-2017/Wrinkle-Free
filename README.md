@@ -42,6 +42,15 @@ We conducted our background research through browsing and searching for literatu
 <li>Smith, A. (2014, April 3). Older Adults and Technology Use. Retrieved from Pew Research Center: http://www.pewinternet.org/2014/04/03/older-adults-and-technology-use/</li>
 <li>5 AGE DEFYING BENEFITS OF SENIOR FRIENDSHIPS. (2017, July 15). Retrieved from Palm Lake Care: http://www.palmlakecare.com.au/our-stories/5-age-defying-benefits-senior-friendships</li>
 <li>Kamiel, A. (2016, 07 03). A Hot Trend: The Internet, Social Media & The Elderly. Retrieved from The Blog: http://www.huffingtonpost.com/anita-kamiel-rn-mps/older-people-social-media_b_9191178.html</li>
+<li>Czaja, S., & Sharit, J. (2012). Designing Training and Instructional Programs for Older Adults. CRC Press.</li>
+<li>Czaja, S. J., & Lee, C. C. (2007). The impact of aging on access to technology. Universal Access in the Information Society, 5(4), 341.</li>
+<li>Waldhuter, L. (2017, February 4). Elderly use of social media and technology on the rise. Retrieved October 01, 2017, from http://www.abc.net.au/news/2017-02-04/elderly-use-of-social-media-and-technology-on-the-rise/8240508</li>
+<li>Chen, R. (n.d.). Why Old People Have a Hard Time Learning New Things. Retrieved October 2, 2017, from http://www.embracepossibility.com/blog/why-old-people-have-a-hard-time-learning-new-things/</li>
+<li> Acma.gov.au. (2016). Digital lives of older Australians | ACMA. [online] Available at: https://www.acma.gov.au/theACMA/engage-blogs/engage-blogs/Research-snapshots/Digital-lives-of-older-Australians [Accessed 4 Oct. 2017].</li>
+<li>L'Vanderelst, K. (2011). The elderly are eager to use technology that will facilitate their lives. [online] The elderly are eager to use technology that will facilitate their lives. Available at: https://enerexxo.wordpress.com/ [Accessed 4 Oct. 2017].</li>
+<li>CapTel. (2014). The benefits of technology usage for seniors. [online] Available at: http://www.captel.com/news/senior-living-and-independence/benefits-technology-usage-seniors/ [Accessed 4 Oct. 2017].</li>
+<li>Gerber, R. and Perry, T. (2017). 9 security tips to protect your website from hackers. [online] Creative Bloq. Available at: http://www.creativebloq.com/web-design/website-security-tips-protect-your-site-7122853 [Accessed 4 Oct. 2017].</li>
+<li>Ingram, A. and Stone, D. (2014). Internet security for the elderly|My Ageing Parent. [online] Myageingparent.com. Available at: https://myageingparent.com/technology/communication/internet-security-elderly/ [Accessed 4 Oct. 2017].</li>
 </ol>
 
 <h3>2.2. Audience</h3>
