@@ -269,17 +269,9 @@ Normally our group will meeting online out of the class time by using some of th
   </tr>
   <tr>
     <td>Development</td>
-    <td>DEV Setup</td>
-    <td align="center">N/A</td>
-    <td align="center">ALL</td>
-    <td align="center">14 Sep 17</td>
-    <td align="center">15 Sep 17</td>
-  </tr>
-  <tr>
-    <td>Development</td>
     <td>UI Design (Detail)</td>
     <td>UI Design</td>
-    <td align="center">Jemin<br>Chenwu<br>Weiguang</td>
+    <td align="center">ALL</td>
     <td align="center">16 Sep 17</td>
     <td align="center">23 Sep 17</td>
   </tr>
@@ -308,6 +300,14 @@ Normally our group will meeting online out of the class time by using some of th
     <td align="center">18 Oct 17</td>
   </tr>
   <tr>
+    <td>Development</td>
+    <td>Web function develop</td>
+    <td>N/A</td>
+    <td align="center">Ga sheng<br>Chenwu<br>Weiguang</td>
+    <td align="center">12 Oct 17</td>
+    <td align="center">24 Oct 17</td>
+  </tr>
+  <tr>
     <td>Test</td>
     <td>Week 12 Stand-ups</td>
     <td>Interactive Prototype & Poster for feedback</td>
@@ -318,7 +318,7 @@ Normally our group will meeting online out of the class time by using some of th
   <tr>
     <td>Finalisation</td>
     <td>Showcase</td>
-    <td>Conference Poster</td>
+    <td>Conference Poster<br>Leading Page<br>Final Product</td>
     <td align="center">ALL</td>
     <td align="center">25 Oct 17</td>
     <td align="center">25 Oct 17</td>
