@@ -332,9 +332,17 @@ Normally our group will meeting online out of the class time by using some of th
     <td align="center">18 Oct 17</td>
   </tr>
   <tr>
+    <td>Development</td>
+    <td>Promotional Website</td>
+    <td align="center">N/A</td>
+    <td align="center">Ga sheng</td>
+    <td align="center">19 Oct 17</td>
+    <td align="center">24 Oct 17</td>
+  </tr>
+  <tr>
     <td>Finalisation</td>
     <td>Showcase</td>
-    <td align="center">Conference Poster<br>Leading Page<br>Final Product</td>
+    <td align="center">Conference Poster<br>Promotional Website<br>Final Product</td>
     <td align="center">ALL</td>
     <td align="center">25 Oct 17</td>
     <td align="center">25 Oct 17</td>
