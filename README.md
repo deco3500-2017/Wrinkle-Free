@@ -192,8 +192,8 @@ Normally our group will meeting online out of the class time by using some of th
     <th align="center">Activities</th>
     <th align="center">Deliverables</th>
     <th align="center">People</th>
-    <th align="center">Start</th>
-    <th align="center">Finish</th>
+    <th align="center">Start Date</th>
+    <th align="center">Finish Date</th>
   </tr>
   <tr>
     <td align="center">N/A</td>
