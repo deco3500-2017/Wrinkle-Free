@@ -179,7 +179,7 @@ Normally our group will meeting online out of the class time by using some of th
   </tr>
   <tr>
     <td align="center">8</td>
-    <td>Final Prototype with Conference Poster</td>
+    <td>Final Prototype with Conference Poster & Promotional website</td>
     <td align="center">Week 13</td>
     <td align="center">25 Oct 17</td>
   </tr>
@@ -194,14 +194,6 @@ Normally our group will meeting online out of the class time by using some of th
     <th align="center">People</th>
     <th align="center">Start Date</th>
     <th align="center">Finish Date</th>
-  </tr>
-  <tr>
-    <td align="center">Reasearch</td>
-    <td>Project Idea</td>
-    <td align="center">Project Idea</td>
-    <td align="center">ALL</td>
-    <td align="center">3 Aug 17</td>
-    <td align="center">11 Aug 17</td>
   </tr>
   <tr>
     <td>Research</td>
