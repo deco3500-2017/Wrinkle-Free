@@ -1,7 +1,7 @@
 <h1>Wrinkle-Free</h1>
-Link to our product: https://stanleyyau956.wixsite.com/asliceoflife
+Link to our product: <a href="https://stanleyyau956.wixsite.com/asliceoflife">Here</a>
 <br>
-Link to our leading page source code: <a href="https://github.com/deco3500-2017/Wrinkle-Free/tree/master/Promotional%20Material">Here text</a>
+Link to our leading page source code: <a href="https://github.com/deco3500-2017/Wrinkle-Free/tree/master/Promotional%20Material">Here</a>
 <br>
 Link to our Conference Poster: <a href="https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week13/Conference%20Poster_v.1.0_Final.png">Here</a>
 <h2>1. Introduction</h2>
