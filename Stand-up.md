@@ -15,10 +15,6 @@
         <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_041017.pdf</li>
         <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_081017.pdf</li>
         <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_111017.pdf</li>
-        <!--
-        <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_151017.pdf</li>
-        <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_181017.pdf</li>
-        -->
       </ul>
     </li>
     <li>Team established additional requirements based on both initial and additional research and reflected them to the prototype.
@@ -104,18 +100,25 @@
   <ol>
     <li>Completion
       <ul>
-        <li>I defined requirements based on both initial and additional research. (05/10)</li>
-        <li>I updated documents and restructed the repository in Github. (05/10~17/10)</li>
+        <li> I hosted meetings and wrote meeting minutes for discussion & issues. (04/10~11/10)
+          <ul>
+            <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_041017.pdf</li>
+            <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_081017.pdf</li>
+            <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Meeting%20Minutes/Meeting%20Minutes_111017.pdf</li>
+          </ul>
+        </li>
+        <li>I defined requirements based on both initial and additional research. (05/10)
+          <ul>
+            <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week10/Iteration/Requirements_051017.pdf</li>
+          </ul>
+        </li>
+        <li>I updated documents and restructed the repository in Github. (05/10~17/10)
+          <ul>
+            <li>https://github.com/deco3500-2017/Wrinkle-Free/graphs/contributors</li>
+          </ul>
+        </li>
         <li>I conducted review of the prototype with team members. (08/10~15/10)</li>
         <li>I created layouts of conference poster. (12/10~14/10)
-          <!--
-          <div>
-            <img src="https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week11/Conference%20Poster/Conference%20Poster_Layout_%231.png" alt="Conference Poster_Layout_#1">
-            <img src="https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week11/Conference%20Poster/Conference%20Poster_Layout_%232.png" alt="Conference Poster_Layout_#2">
-            <img src="https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week11/Conference%20Poster/Conference%20Poster_Layout_%233.png" alt="Conference Poster_Layout_#3">
-            <img src="https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week11/Conference%20Poster/Conference%20Poster_Layout_%234.png" alt="Conference Poster_Layout_#4">
-          </div>
-          -->
           <ul>
             <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week11/Conference%20Poster/Conference%20Poster_Layout_%231.png</li>
             <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week11/Conference%20Poster/Conference%20Poster_Layout_%232.png</li>
@@ -124,12 +127,6 @@
           </ul>
           </li>
         <li>I created drafts of conference poster. (15/10~17/10)
-          <!--
-          <div>
-            <img src="https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week12/Conference%20Poster_Draft_%231.png" alt="Conference Poster_Draft_#1" height="100%" width="100%">
-            <img src="https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week12/Conference%20Poster_Draft_%232.png" alt="Conference Poster_Draft_#2" height="100%" width="100%">
-          </div>
-          -->
           <ul>
             <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week12/Conference%20Poster_Draft_%231.png</li>
             <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week12/Conference%20Poster_Draft_%232.png</li>
@@ -273,7 +270,11 @@
   <ol>
     <li>Completion
       <ul>
-        <li>I did additional research for target audiences related to social and technology. (~04/10)</li>
+        <li>I did additional research for target audiences related to social and technology. (~04/10)
+          <ul>
+            <li>https://github.com/deco3500-2017/Wrinkle-Free/blob/master/Design%20Process/Week10/Iteration/Research_041017.pdf</li>
+          </ul>
+        </li>
       </ul>
     </li>
     <li>Things to do for next two weeks
